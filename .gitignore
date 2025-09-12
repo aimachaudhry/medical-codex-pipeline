@@ -5,6 +5,16 @@ input/
 *.zip
 raw_downloads/
 
+# Datasets
+input/HCPC2025_OCT_ANWEB_v3.txt
+input/icd10cm_codes_2025.txt
+input/icd102019syst_codes.txt
+input/Loinc.csv
+input/npidata_pfile_20050523-20250907.csv
+input/RXNATOMARCHIVE.RRF
+input/sct2_Description_Full-en_US1000124_20250901.txt
+
+
 # Processed files are OK to commit
 # output/ - keep these
 
