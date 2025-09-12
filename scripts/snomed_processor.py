@@ -31,8 +31,8 @@ print(f"\nActive terms count: {df.filter(pl.col('active') == 1).height}")
 lang_series = df.get_column('languageCode')
 print(f"Language codes: {lang_series.unique().to_list()}")
 
-# Save only a sample of the first 10,000 rows to reduce file size
-df_sample = df.head(10000)
+# Save only a sample of the first 1,000 rows to reduce file size
+df_sample = df.head(1000)
 # Add a last_updated column with the current timestamp
 
 df_sample = df_sample.with_columns([
