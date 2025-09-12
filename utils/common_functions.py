@@ -3,9 +3,7 @@ import pandas as pd
 from pathlib import Path
 
 def save_to_formats(df, base_filename):
-    """
-    Save a DataFrame (pandas or polars) to CSV format.
-    """
+    # Save a DataFrame (pandas or polars) to CSV format.
     csv_path = Path(f"{base_filename}.csv")
     if isinstance(df, pd.DataFrame):
         df.to_csv(csv_path, index=False)
