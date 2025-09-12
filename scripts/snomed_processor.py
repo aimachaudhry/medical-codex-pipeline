@@ -31,20 +31,23 @@ print(f"\nActive terms count: {df.filter(pl.col('active') == 1).height}")
 lang_series = df.get_column('languageCode')
 print(f"Language codes: {lang_series.unique().to_list()}")
 
+# Save only a sample of the first 10,000 rows to reduce file size
+df_sample = df.head(10000)
 # Add a last_updated column with the current timestamp
-df = df.with_columns([
+
+df_sample = df_sample.with_columns([
     pl.lit(datetime.now().strftime('%Y-%m-%d %H:%M:%S')).alias('last_updated')
 ])
 
-# Save the DataFrame to CSV using the reusable function
-output_base = 'output/snomed_descriptions'
-save_to_formats(df, output_base)
+# Save the sampled DataFrame to CSV using the reusable function
+output_base = 'output/snomed_descriptions_sample'
+save_to_formats(df_sample, output_base)
 
 
-# Print summary and preview
-print(f"Successfully parsed {df.height} records from SNOMED CT file")
+# Print summary and preview for the sampled DataFrame
+print(f"Successfully parsed {df_sample.height} records from SNOMED CT file")
 print(f"Saved to {output_base}.csv")
-print(f"Dataset shape: {df.shape}")
-print(f"\nColumn names: {df.columns}")
+print(f"Dataset shape: {df_sample.shape}")
+print(f"\nColumn names: {df_sample.columns}")
 print(f"\nFirst 5 rows:")
-print(df.head())
+print(df_sample.head())
