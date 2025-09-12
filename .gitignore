@@ -16,4 +16,4 @@ venv/
 
 # IDE
 .vscode/
-.idea/
+.idea/output/snomed_descriptions.csv
