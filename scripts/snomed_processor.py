@@ -33,8 +33,8 @@ print(f"Language codes: {lang_series.unique().to_list()}")
 
 # Save only a sample of the first 1,000 rows to reduce file size
 df_sample = df.head(1000)
-# Add a last_updated column with the current timestamp
 
+# Add a last_updated column with the current timestamp
 df_sample = df_sample.with_columns([
     pl.lit(datetime.now().strftime('%Y-%m-%d %H:%M:%S')).alias('last_updated')
 ])

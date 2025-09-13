@@ -17,20 +17,18 @@ columns = ['level', 'type', 'usage', 'sort', 'parent', 'code', 'display_code',
 df = pd.read_csv(file_path, sep=';', header=None, names=columns)
 
 
+# Save only a sample of the first 1,000 rows to reduce file size
+df_sample = df.head(1000)
+
 # Add a last_updated column with the current timestamp
-last_updated = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
-df['last_updated'] = last_updated
+df_sample['last_updated'] = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
 
-# Path to save the output CSV file
-output_csv = 'output/icd102019syst_codes.csv'
+# Save the sampled DataFrame to CSV using the reusable function
+output_base = 'output/icd102019syst_codes_sample.csv'
+save_to_formats(df_sample, output_base)
 
-
-# Save the DataFrame to CSV using the reusable function
-save_to_formats(df, output_csv)
-
-
-# Print summary and preview
-print(f"Successfully parsed {len(df)} records from {file_path}")
-print(f"Saved to {output_csv}")
+# Print summary and preview for the sample
+print(f"Successfully parsed {len(df_sample)} records from {file_path}")
+print(f"Saved to {output_base}")
 print(f"\nFirst 5 rows:")
-print(df.head())
+print(df_sample.head())
