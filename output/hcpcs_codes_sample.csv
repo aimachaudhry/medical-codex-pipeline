@@ -1,0 +1,1001 @@
+Code,Description1,Description2,Type,Unknown1,Unknown2,Unknown3,Unknown4,last_updated
+A1001007,Dressing for one wound,Dressing for one wound,,,C,,200207012002,2025-09-12 20:34:03
+A2001007,Dressing for two wounds,Dressing for two wounds,,,C,,200207012002,2025-09-12 20:34:03
+A3001007,Dressing for three wounds,Dressing for three wounds,,,C,,200207012002,2025-09-12 20:34:03
+A4001007,Dressing for four wounds,Dressing for four wounds,,,C,,200207012002,2025-09-12 20:34:03
+A5001007,Dressing for five wounds,Dressing for five wounds,,,C,,200207012002,2025-09-12 20:34:03
+A6001007,Dressing for six wounds,Dressing for six wounds,,,C,,200207012002,2025-09-12 20:34:03
+A7001007,Dressing for seven wounds,Dressing for seven wounds,,,C,,200207012002,2025-09-12 20:34:03
+A8001007,Dressing for eight wounds,Dressing for eight wounds,,,C,,200207012002,2025-09-12 20:34:03
+A9001007,Dressing for nine or more wounds,Dressing for 9 or more wound,,,C,,200207012002,2025-09-12 20:34:03
+AA001007,Anesthesia services performed personally by anesthesiologist,Anesthesia perf by anesgst                             3350.5,,,D,,198401012001,2025-09-12 20:34:03
+AB001007,Audiology service furnished personally by an audiologist without a,Aud svs w/o order evry 12mo,,,C,,202301012023,2025-09-12 20:34:03
+AB002008,physician/npp order for non-acute hearing assessment unrelated to,,,,,,,2025-09-12 20:34:03
+AB003008,"disequilibrium, or hearing aids, or examinations for the purpose of",,,,,,,2025-09-12 20:34:03
+AB004008,"prescribing, fitting, or changing hearing aids; service may be performed once",,,,,,,2025-09-12 20:34:03
+AB005008,"every 12 months, per beneficiary",,,,,,,2025-09-12 20:34:03
+AD001007,Medical supervision by a physician: more than four concurrent anesthesia,"Md supervision, >4 anes proc                           3350.5",,,D,,198401012001,2025-09-12 20:34:03
+AD002008,procedures,,,,,,,2025-09-12 20:34:03
+AE001007,Registered dietician,Registered dietician,,,C,,200501012005,2025-09-12 20:34:03
+AF001007,Specialty physician,Specialty physician,,,C,,200501012005,2025-09-12 20:34:03
+AG001007,Primary physician,Primary physician,,,C,,200501012005,2025-09-12 20:34:03
+AH001007,Clinical psychologist,Clinical psychologist                                  2150    5112,,,D,,199101011997,2025-09-12 20:34:03
+AI001007,Principal physician of record,Principal physician of rec,,,C,,201001012010,2025-09-12 20:34:03
+AJ001007,Clinical social worker,Clinical social worker                                 2152    5113,,,D,,199101011997,2025-09-12 20:34:03
+AK001007,Non participating physician,Non participating physician,,,C,,200501012005,2025-09-12 20:34:03
+AM001007,"Physician, team member service","Physician, team member svc                             4105.7",,QM,D,0069,199101011997,2025-09-12 20:34:03
+AO001007,Alternate payment method declined by provider of service,Prov declined alt pmt method,,,C,,201310012013,2025-09-12 20:34:03
+AP001007,Determination of refractive state was not performed in the course of diagnostic,No dtmn of refractive state,,,C,,198401011997,2025-09-12 20:34:03
+AP002008,ophthalmological examination,,,,,,,2025-09-12 20:34:03
+AQ001007,Physician providing a service in an unlisted health professional shortage area,Physician service hpsa area,,,C,,200601012006,2025-09-12 20:34:03
+AQ002008,(hpsa),,,,,,,2025-09-12 20:34:03
+AR001007,Physician provider services in a physician scarcity area,Physician scarcity area,,,C,,200501012005,2025-09-12 20:34:03
+AS001007,"Physician assistant, nurse practitioner, or clinical nurse specialist services",Assistant at surgery service,,,C,0069,198801011999,2025-09-12 20:34:03
+AS002008,for assistant at surgery,,,,,,,2025-09-12 20:34:03
+AT001007,"Acute treatment (this modifier should be used when reporting service 98940,",Acute treatment,,,C,,198401011998,2025-09-12 20:34:03
+AT002008,"98941, 98942)",,,,,,,2025-09-12 20:34:03
+AU001007,"Item furnished in conjunction with a urological, ostomy, or tracheostomy supply","Uro, ostomy or trach item",,,C,,200301012003,2025-09-12 20:34:03
+AV001007,"Item furnished in conjunction with a prosthetic device, prosthetic or orthotic",Item w prosthetic/orthotic,,,C,,200301012003,2025-09-12 20:34:03
+AW001007,Item furnished in conjunction with a surgical dressing,Item w a surgical dressing,,,C,,200301012003,2025-09-12 20:34:03
+AX001007,Item furnished in conjunction with dialysis services,Item w dialysis services,,,C,,200301012003,2025-09-12 20:34:03
+AY001007,Item or service furnished to an esrd patient that is not for the treatment of,Item/service not for esrd tx,,,C,,201101012011,2025-09-12 20:34:03
+AY002008,esrd,,,,,,,2025-09-12 20:34:03
+AZ001007,Physician providing a service in a dental health professional shortage area for,Physician serv in dent hpsa,,,I,,201101012011,2025-09-12 20:34:03
+AZ002008,the purpose of an electronic health record incentive payment,,,,,,,2025-09-12 20:34:03
+BA001007,Item furnished in conjunction with parenteral enteral nutrition (pen) services,Item w pen services,,,C,,200301012003,2025-09-12 20:34:03
+BL001007,Special acquisition of blood and blood products,Spec acquisition blood prods,,,C,,200507012005,2025-09-12 20:34:03
+BO001007,"Orally administered nutrition, not by feeding tube",Nutrition oral admin no tube,,,C,,200301012003,2025-09-12 20:34:03
+BP001007,The beneficiary has been informed of the purchase and rental options and has,Bene electd to purchase item,,,C,,199201011997,2025-09-12 20:34:03
+BP002008,elected to purchase the item,,,,,,,2025-09-12 20:34:03
+BR001007,The beneficiary has been informed of the purchase and rental options and has,Bene elected to rent item,,,C,,199201011997,2025-09-12 20:34:03
+BR002008,elected to rent the item,,,,,,,2025-09-12 20:34:03
+BU001007,The beneficiary has been informed of the purchase and rental options and after,Bene undecided on purch/rent,,,C,,199201011997,2025-09-12 20:34:03
+BU002008,30 days has not informed the supplier of his/her decision,,,,,,,2025-09-12 20:34:03
+CA001007,Procedure payable only in the inpatient setting when performed emergently on an,Procedure payable inpatient,,,C,,200301012003,2025-09-12 20:34:03
+CA002008,outpatient who expires prior to admission,,,,,,,2025-09-12 20:34:03
+CB001007,Service ordered by a renal dialysis facility (rdf) physician as part of the,Esrd bene part a snf-sep pay,,,C,,200304012004,2025-09-12 20:34:03
+CB002008,"esrd beneficiary's dialysis benefit, is not part of the composite rate, and is",,,,,,,2025-09-12 20:34:03
+CB003008,separately reimbursable,,,,,,,2025-09-12 20:34:03
+CC001007,Procedure code change (use 'cc' when the procedure code submitted was changed,Procedure code change,,,C,,199001011997,2025-09-12 20:34:03
+CC002008,either for administrative reasons or because an incorrect code was filed),,,,,,,2025-09-12 20:34:03
+CD001007,Amcc test has been ordered by an esrd facility or mcp physician that is part of,Amcc test for esrd or mcp md                           4270.2,,,D,,200401012004,2025-09-12 20:34:03
+CD002008,the composite rate and is not separately billable,,,,,,,2025-09-12 20:34:03
+CE001007,Amcc test has been ordered by an esrd facility or mcp physician that is a,Med neces amcc tst sep reimb                           4270.2,,,D,,200401012004,2025-09-12 20:34:03
+CE002008,composite rate test but is beyond the normal frequency covered under the rate,,,,,,,2025-09-12 20:34:03
+CE003008,and is separately reimbursable based on medical necessity,,,,,,,2025-09-12 20:34:03
+CF001007,Amcc test has been ordered by an esrd facility or mcp physician that is not,Amcc tst not composite rate                            4270.2,,,D,,200401012004,2025-09-12 20:34:03
+CF002008,part of the composite rate and is separately billable,,,,,,,2025-09-12 20:34:03
+CG001007,Policy criteria applied,Policy criteria applied,,,C,,200807012008,2025-09-12 20:34:03
+CH001007,"0 percent impaired, limited or restricted","0 percent impaired, ltd, res",,,D,0180,201301012013,2025-09-12 20:34:03
+CI001007,"At least 1 percent but less than 20 percent impaired, limited or restricted",1 to <20 percent impaired,,,D,0180,201301012013,2025-09-12 20:34:03
+CJ001007,"At least 20 percent but less than 40 percent impaired, limited or restricted",20 to <40 percent impaired,,,D,0180,201301012013,2025-09-12 20:34:03
+CK001007,"At least 40 percent but less than 60 percent impaired, limited or restricted",40 to <60 percent impaired,,,D,0180,201301012013,2025-09-12 20:34:03
+CL001007,"At least 60 percent but less than 80 percent impaired, limited or restricted",60 to <80 percent impaired,,,D,0180,201301012013,2025-09-12 20:34:03
+CM001007,"At least 80 percent but less than 100 percent impaired, limited or restricted",80 to <100 percent impaired,,,D,0180,201301012013,2025-09-12 20:34:03
+CN001007,"100 percent impaired, limited or restricted","100 percent impaired, ltd",,,D,0180,201301012013,2025-09-12 20:34:03
+CO001007,Outpatient occupational therapy services furnished in whole or in part by an,Outpatient ot service by ota,,,C,,201901012019,2025-09-12 20:34:03
+CO002008,occupational therapy assistant,,,,,,,2025-09-12 20:34:03
+CP001007,Adjunctive service related to a procedure assigned to a comprehensive,C-apc adjunctive service,,,C,,201601012018,2025-09-12 20:34:03
+CP002008,"ambulatory payment classification (c-apc) procedure, but reported on a",,,,,,,2025-09-12 20:34:03
+CP003008,different claim,,,,,,,2025-09-12 20:34:03
+CQ001007,Outpatient physical therapy services furnished in whole or in part by a,Outpatient pt service by pta,,,C,,201901012019,2025-09-12 20:34:03
+CQ002008,physical therapist assistant,,,,,,,2025-09-12 20:34:03
+CR001007,Catastrophe/disaster related,Catastrophe/disaster related,,,C,,200508212005,2025-09-12 20:34:03
+CS001007,Cost-sharing waived for specified covid-19 testing-related services that result,Cost share waiver covid-19,,,C,,201101012020,2025-09-12 20:34:03
+CS002008,in and order for or administration of a covid-19 test and/or used for,,,,,,,2025-09-12 20:34:03
+CS003008,cost-sharing waived preventive services furnished via telehealth in rural,,,,,,,2025-09-12 20:34:03
+CS004008,health clinics and federally qualified health centers during the covid-19,,,,,,,2025-09-12 20:34:03
+CS005008,public health emergency,,,,,,,2025-09-12 20:34:03
+CT001007,Computed tomography services furnished using equipment that does not meet each,Ct does not meet nema standa,,,C,,201601012016,2025-09-12 20:34:03
+CT002008,of the attributes of the national electrical manufacturers association (nema),,,,,,,2025-09-12 20:34:03
+CT003008,xr-29-2013 standard,,,,,,,2025-09-12 20:34:03
+DA001007,Oral health assessment by a licensed health professional other than a dentist,"Oral health assess, not dent",,,C,,201101012011,2025-09-12 20:34:03
+E1001007,"Upper left, eyelid",Upper left eyelid,,,C,,199501011999,2025-09-12 20:34:03
+E2001007,"Lower left, eyelid",Lower left eyelid,,,C,,199501011999,2025-09-12 20:34:03
+E3001007,"Upper right, eyelid",Upper right eyelid,,,C,,199501011999,2025-09-12 20:34:03
+E4001007,"Lower right, eyelid",Lower right eyelid,,,C,,199501011999,2025-09-12 20:34:03
+EA001007,Erythropoietic stimulating agent (esa) administered to treat anemia due to,"Esa, anemia, chemo-induced",,,D,0147,200801012008,2025-09-12 20:34:03
+EA002008,anti-cancer chemotherapy,,,,,,,2025-09-12 20:34:03
+EB001007,Erythropoietic stimulating agent (esa) administered to treat anemia due to,"Esa, anemia, radio-induced",,,D,0147,200801012008,2025-09-12 20:34:03
+EB002008,anti-cancer radiotherapy,,,,,,,2025-09-12 20:34:03
+EC001007,Erythropoietic stimulating agent (esa) administered to treat anemia not due to,"Esa, anemia, non-chemo/radio",,,D,0147,200801012008,2025-09-12 20:34:03
+EC002008,anti-cancer radiotherapy or anti-cancer chemotherapy,,,,,,,2025-09-12 20:34:03
+ED001007,Hematocrit level has exceeded 39% (or hemoglobin level has exceeded 13.0 g/dl),Hct>39% or hgb>13g>=3 cycle,,,D,0145,200801012008,2025-09-12 20:34:03
+ED002008,for 3 or more consecutive billing cycles immediately prior to and including the,,,,,,,2025-09-12 20:34:03
+ED003008,current cycle,,,,,,,2025-09-12 20:34:03
+EE001007,Hematocrit level has not exceeded 39% (or hemoglobin level has not exceeded,Hct>39% or hgb>13g<3 cycle,,,D,0145,200801012008,2025-09-12 20:34:03
+EE002008,13.0 g/dl) for 3 or more consecutive billing cycles immediately prior to and,,,,,,,2025-09-12 20:34:03
+EE003008,including the current cycle,,,,,,,2025-09-12 20:34:03
+EJ001007,"Subsequent claims for a defined course of therapy, e.g., epo, sodium",Subsequent claim                                       4273.2,,,D,,199101012000,2025-09-12 20:34:03
+EJ002008,"hyaluronate, infliximab",,,,,,,2025-09-12 20:34:03
+EM001007,Emergency reserve supply (for esrd benefit only),Emer reserve supply (esrd)                             3045.7,,,D,,199101011997,2025-09-12 20:34:03
+EP001007,Service provided as part of medicaid early periodic screening diagnosis and,Medicaid epsdt program svc,,,C,,198701011997,2025-09-12 20:34:03
+EP002008,treatment (epsdt) program,,,,,,,2025-09-12 20:34:03
+ER001007,"Items and services furnished by a provider-based, off-campus emergency",Off-campus ed service,,,C,,201901012019,2025-09-12 20:34:03
+ER002008,department,,,,,,,2025-09-12 20:34:03
+ET001007,Emergency services,Emergency services,,,C,,198401012002,2025-09-12 20:34:03
+EX001007,Expatriate beneficiary,Expatriate beneficiary,,,C,,201504012015,2025-09-12 20:34:03
+EY001007,No physician or other licensed health care provider order for this item or,No md order for item/service,,,C,,200301012003,2025-09-12 20:34:03
+EY002008,service,,,,,,,2025-09-12 20:34:03
+F1001007,"Left hand, second digit","Left hand, second digit",,,C,,199501011999,2025-09-12 20:34:03
+F2001007,"Left hand, third digit","Left hand, third digit",,,C,,199501011999,2025-09-12 20:34:03
+F3001007,"Left hand, fourth digit","Left hand, fourth digit",,,C,,199501011999,2025-09-12 20:34:03
+F4001007,"Left hand, fifth digit","Left hand, fifth digit",,,C,,199501011999,2025-09-12 20:34:03
+F5001007,"Right hand, thumb","Right hand, thumb",,,C,,199501011999,2025-09-12 20:34:03
+F6001007,"Right hand, second digit","Right hand, second digit",,,C,,199501011999,2025-09-12 20:34:03
+F7001007,"Right hand, third digit","Right hand, third digit",,,C,,199501011999,2025-09-12 20:34:03
+F8001007,"Right hand, fourth digit","Right hand, fourth digit",,,C,,199501011999,2025-09-12 20:34:03
+F9001007,"Right hand, fifth digit","Right hand, fifth digit",,,C,,199501011999,2025-09-12 20:34:03
+FA001007,"Left hand, thumb","Left hand, thumb",,,C,,199501011999,2025-09-12 20:34:03
+FB001007,"Item provided without cost to provider, supplier or practitioner, or full",Item provided without cost,,,I,,200601012008,2025-09-12 20:34:03
+FB002008,"credit received for replaced device (examples, but not limited to, covered",,,,,,,2025-09-12 20:34:03
+FB003008,"under warranty, replaced due to defect, free samples)",,,,,,,2025-09-12 20:34:03
+FC001007,Partial credit received for replaced device,"Part credit, replaced device",,,D,0143,200801012008,2025-09-12 20:34:03
+FP001007,Service provided as part of family planning program,Svc part of family plan pgm,,,C,,198701012005,2025-09-12 20:34:03
+FQ001007,The service was furnished using audio-only communication technology,Audio-only service,,,C,,202201012022,2025-09-12 20:34:03
+FR001007,"The supervising practitioner was present through two-way, audio/video",Two-way a/v dir supervision,,,C,,202201012022,2025-09-12 20:34:03
+FR002008,communication technology,,,,,,,2025-09-12 20:34:03
+FS001007,Split (or shared) evaluation and management visit,Split or shared e/m visit,,,C,,202201012022,2025-09-12 20:34:03
+FT001007,Unrelated evaluation and management (e/m) visit on the same day as another e/m,"Separate, unrelated e/m",,,C,,202201012022,2025-09-12 20:34:03
+FT002008,"visit or during a global procedure (preoperative, postoperative period, or on",,,,,,,2025-09-12 20:34:03
+FT003008,"the same day as the procedure, as applicable). (report when an e/m visit is",,,,,,,2025-09-12 20:34:03
+FT004008,"furnished within the global period but is unrelated, or when one or more",,,,,,,2025-09-12 20:34:03
+FT005008,additional e/m visits furnished on the same day are unrelated),,,,,,,2025-09-12 20:34:03
+FX001007,X-ray taken using film,X-ray taken using film,,,C,,201701012017,2025-09-12 20:34:03
+FY001007,X-ray taken using computed radiography technology/cassette-based imaging,Computed radiography x-ray,,,C,,201801012018,2025-09-12 20:34:03
+G0001007,"Telehealth services for diagnosis, evaluation, or treatment, of symptoms of an",Telestroke,,,C,,201901012019,2025-09-12 20:34:03
+G0002008,acute stroke,,,,,,,2025-09-12 20:34:03
+G1001007,Most recent urr reading of less than 60,Urr reading of less than 60,,,C,,199701011998,2025-09-12 20:34:03
+G2001007,Most recent urr reading of 60 to 64.9,Urr reading of 60 to 64.9,,,C,,199701011998,2025-09-12 20:34:03
+G3001007,Most recent urr reading of 65 to 69.9,Urr  reading of 65 to 69.9,,,C,,199701011998,2025-09-12 20:34:03
+G4001007,Most recent urr reading of 70 to 74.9,Urr reading of 70 to 74.9,,,C,,199701011997,2025-09-12 20:34:03
+G5001007,Most recent urr reading of 75 or greater,Urr reading of 75 or greater,,,C,,199701011998,2025-09-12 20:34:03
+G6001007,Esrd patient for whom less than six dialysis sessions have been provided in a,Esrd patient <6 dialysis/mth,,,C,,199805011998,2025-09-12 20:34:03
+G6002008,month,,,,,,,2025-09-12 20:34:03
+G7001007,Pregnancy resulted from rape or incest or pregnancy certified by physician as,Payment limits do not apply          35-99             2005.1,,,D,0084,199907011999,2025-09-12 20:34:03
+G7002008,life threatening,,,,,,,2025-09-12 20:34:03
+G8001007,"Monitored anesthesia care (mac) for deep complex, complicated, or markedly",Monitored anesthesia care,,,C,0083,199907011999,2025-09-12 20:34:03
+G8002008,invasive surgical procedure,,,,,,,2025-09-12 20:34:03
+G9001007,Monitored anesthesia care for patient who has history of severe,Mac for at risk patient,,,C,,199907011999,2025-09-12 20:34:03
+G9002008,cardio-pulmonary condition,,,,,,,2025-09-12 20:34:03
+GA001007,"Waiver of liability statement issued as required by payer policy, individual",Liability waiver ind case,,,C,,199501012011,2025-09-12 20:34:03
+GA002008,case,,,,,,,2025-09-12 20:34:03
+GB001007,Claim being re-submitted for payment because it is no longer covered under a,Claim resubmitted,,,C,,200201012002,2025-09-12 20:34:03
+GB002008,global payment demonstration,,,,,,,2025-09-12 20:34:03
+GC001007,This service has been performed in part by a resident under the direction of a,Resident/teaching phys serv                            3350.5  4116,,,D,,199701012001,2025-09-12 20:34:03
+GC002008,teaching physician,,,,,,,2025-09-12 20:34:03
+GD001007,Units of service exceeds medically unlikely edit value and represents,Unit of service > mue value,,,C,,200801012020,2025-09-12 20:34:03
+GD002008,reasonable and necessary services,,,,,,,2025-09-12 20:34:03
+GE001007,This service has been performed by a resident without the presence of a,Resident prim care exception                           4116,,,D,,199701011997,2025-09-12 20:34:03
+GE002008,teaching physician under the primary care exception,,,,,,,2025-09-12 20:34:03
+GF001007,"Non-physician (e.g. nurse practitioner (np), certified registered nurse",Nonphysician serv c a hosp,,,C,,200304012003,2025-09-12 20:34:03
+GF002008,"anesthetist (crna), certified registered nurse (crn), clinical nurse specialist",,,,,,,2025-09-12 20:34:03
+GF003008,"(cns), physician assistant (pa)) services in a critical access hospital",,,,,,,2025-09-12 20:34:03
+GG001007,Performance and payment of a screening mammogram and diagnostic mammogram on,Payment screen mam + diagmam,,,C,,200201012002,2025-09-12 20:34:03
+GG002008,"the same patient, same day",,,,,,,2025-09-12 20:34:03
+GH001007,Diagnostic mammogram converted from screening mammogram on same day,Diag mammo to screening mamo,,,C,,199810011998,2025-09-12 20:34:03
+GJ001007,"""opt out"" physician or practitioner emergency or urgent service",Opt out provider of er srvc,,,C,,199810011998,2025-09-12 20:34:03
+GK001007,Reasonable and necessary item/service associated with a ga or gz modifier,Actual item/service ordered,,,C,,200201012008,2025-09-12 20:34:03
+GL001007,"Medically unnecessary upgrade provided instead of non-upgraded item, no charge,","Upgraded item, no charge",,,C,,200201012008,2025-09-12 20:34:03
+GL002008,no advance beneficiary notice (abn),,,,,,,2025-09-12 20:34:03
+GM001007,Multiple patients on one ambulance trip,Multiple transports,,,C,,200201012002,2025-09-12 20:34:03
+GN001007,Services delivered under an outpatient speech language pathology plan of care,Op speech language service,,,C,,199901012003,2025-09-12 20:34:03
+GO001007,Services delivered under an outpatient occupational therapy plan of care,Op occupational therapy serv,,,C,,199901012003,2025-09-12 20:34:03
+GP001007,Services delivered under an outpatient physical therapy plan of care,Op pt services,,,C,,199901012003,2025-09-12 20:34:03
+GQ001007,Via asynchronous telecommunications system,Telehealth store and forward,,,C,,200110012001,2025-09-12 20:34:03
+GR001007,This service was performed in whole or in part by a resident in a department of,Service by va resident,,,C,,200601012006,2025-09-12 20:34:03
+GR002008,"veterans affairs medical center or clinic, supervised in accordance with va",,,,,,,2025-09-12 20:34:03
+GR003008,policy,,,,,,,2025-09-12 20:34:03
+GS001007,Dosage of erythropoietin stimulating agent has been reduced and maintained in,Epo/darbepoietin reduced 25%                           4273.1,,,D,,200601012013,2025-09-12 20:34:03
+GS002008,response to hematocrit or hemoglobin level,,,,,,,2025-09-12 20:34:03
+GT001007,Via interactive audio and video telecommunication systems,Interactivetelecommunication,,,D,0073,199901011999,2025-09-12 20:34:03
+GU001007,"Waiver of liability statement issued as required by payer policy, routine notic",eLiability waiver rout notice,,,C,,201101012011,2025-09-12 20:34:03
+GV001007,Attending physician not employed or paid under arrangement by the patient's,Attending phys not hospice                             4175-5,,,D,,200201012002,2025-09-12 20:34:03
+GV002008,hospice provider,,,,,,,2025-09-12 20:34:03
+GW001007,Service not related to the hospice patient's terminal condition,Service unrelated to term co                           4175-5,,,D,,200201012002,2025-09-12 20:34:03
+GX001007,"Notice of liability issued, voluntary under payer policy",Voluntary liability notice,,,C,,201004012010,2025-09-12 20:34:03
+GY001007,"Item or service statutorily excluded, does not meet the definition of any",Statutorily excluded,,,S,,200201012007,2025-09-12 20:34:03
+GY002008,"medicare benefit or, for non-medicare insurers, is not a contract benefit",,,,,,,2025-09-12 20:34:03
+GZ001007,Item or service expected to be denied as not reasonable and necessary,Not reasonable and necessary                           2000,,,M,,200201012002,2025-09-12 20:34:03
+H9001007,Court-ordered,Court-ordered,,,I,,200301012003,2025-09-12 20:34:03
+HA001007,Child/adolescent program,Child/adolescent program,,,I,,200301012003,2025-09-12 20:34:03
+HB001007,"Adult program, non geriatric",Adult program non-geriatric,,,I,,200301012003,2025-09-12 20:34:03
+HC001007,"Adult program, geriatric",Adult program geriatric,,,I,,200301012003,2025-09-12 20:34:03
+HD001007,Pregnant/parenting women's program,Pregnant/parenting program,,,I,,200301012003,2025-09-12 20:34:03
+HE001007,Mental health program,Mental health program,,,I,,200301012003,2025-09-12 20:34:03
+HF001007,Substance abuse program,Substance abuse program,,,I,,200301012003,2025-09-12 20:34:03
+HG001007,Opioid addiction treatment program,Opioid addiction tx program,,,I,,200301012003,2025-09-12 20:34:03
+HH001007,Integrated mental health/substance abuse program,Mental hlth/substance abs pr,,,I,,200301012003,2025-09-12 20:34:03
+HI001007,Integrated mental health and intellectual disability/developmental disabilities,Men hlth intel/dev disab pgm,,,I,,200301012014,2025-09-12 20:34:03
+HI002008,program,,,,,,,2025-09-12 20:34:03
+HJ001007,Employee assistance program,Employee assistance program,,,I,,200301012003,2025-09-12 20:34:03
+HK001007,Specialized mental health programs for high-risk populations,Spec hgh rsk mntl hlth pop p,,,I,,200301012003,2025-09-12 20:34:03
+HL001007,Intern,Intern,,,I,,200301012003,2025-09-12 20:34:03
+HM001007,Less than bachelor degree level,Less than bachelor degree lv,,,I,,200301012003,2025-09-12 20:34:03
+HN001007,Bachelors degree level,Bachelors degree level,,,I,,200301012003,2025-09-12 20:34:03
+HO001007,Masters degree level,Masters degree level,,,I,,200301012003,2025-09-12 20:34:03
+HP001007,Doctoral level,Doctoral level,,,I,,200301012003,2025-09-12 20:34:03
+HQ001007,Group setting,Group setting,,,I,,200301012003,2025-09-12 20:34:03
+HR001007,Family/couple with client present,Family/couple w client prsnt,,,I,,200301012003,2025-09-12 20:34:03
+HS001007,Family/couple without client present,Family/couple w/o client prs,,,I,,200301012003,2025-09-12 20:34:03
+HT001007,Multi-disciplinary team,Multi-disciplinary team,,,I,,200301012003,2025-09-12 20:34:03
+HU001007,Funded by child welfare agency,Child welfare agency funded,,,I,,200301012003,2025-09-12 20:34:03
+HV001007,Funded state addictions agency,Funded state addiction agncy,,,I,,200301012003,2025-09-12 20:34:03
+HW001007,Funded by state mental health agency,State mntl hlth agncy funded,,,I,,200301012003,2025-09-12 20:34:03
+HX001007,Funded by county/local agency,County/local agency funded,,,I,,200301012003,2025-09-12 20:34:03
+HY001007,Funded by juvenile justice agency,Funded by juvenile justice,,,I,,200301012003,2025-09-12 20:34:03
+HZ001007,Funded by criminal justice agency,Criminal justice agncy fund,,,I,,200301012003,2025-09-12 20:34:03
+J1001007,Competitive acquisition program no-pay submission for a prescription number,Cap no-pay for prescript num,,,C,,200601012006,2025-09-12 20:34:03
+J2001007,"Competitive acquisition program, restocking of emergency drugs after emergency",Cap restock of emerg drugs,,,C,,200601012006,2025-09-12 20:34:03
+J2002008,administration,,,,,,,2025-09-12 20:34:03
+J3001007,"Competitive acquisition program (cap), drug not available through cap as",Cap drug unavail thru cap,,,C,,200601012006,2025-09-12 20:34:03
+J3002008,"written, reimbursed under average sales price methodology",,,,,,,2025-09-12 20:34:03
+J4001007,Dmepos item subject to dmepos competitive bidding program that is furnished by,Dmepos comp bid furn by hosp,,,C,,201001012010,2025-09-12 20:34:03
+J4002008,a hospital upon discharge,,,,,,,2025-09-12 20:34:03
+J5001007,Off-the-shelf orthotic subject to dmepos competitive bidding program that is,Dmepos comp bid fur by pt/ot,,,C,,202010012020,2025-09-12 20:34:03
+J5002008,furnished as part of a physical therapist or occupational therapist,,,,,,,2025-09-12 20:34:03
+J5003008,professional service,,,,,,,2025-09-12 20:34:03
+JA001007,Administered intravenously,Administered intravenously,,,C,,200701012007,2025-09-12 20:34:03
+JB001007,Administered subcutaneously,Administered subcutaneously,,,C,,200701012007,2025-09-12 20:34:03
+JC001007,Skin substitute used as a graft,Skin substitute graft,,,C,,200901012009,2025-09-12 20:34:03
+JD001007,Skin substitute not used as a graft,Skin sub not used as a graft,,,C,,200901012009,2025-09-12 20:34:03
+JE001007,Administered via dialysate,Administered via dialysate,,,C,,201307012013,2025-09-12 20:34:03
+JF001007,Compounded drug,Compounded drug,,,C,,201504012015,2025-09-12 20:34:03
+JG001007,"Drug or biological acquired with 340b drug pricing program discount, reported",340b acquired drug,,,C,,201801012025,2025-09-12 20:34:03
+JG002008,for informational purposes,,,,,,,2025-09-12 20:34:03
+JK001007,One month supply or less of drug or biological,Drug supply 1 month or less,,,C,,202304012023,2025-09-12 20:34:03
+JL001007,Three month supply of drug or biological,Drug 3 month supply,,,C,,202304012023,2025-09-12 20:34:03
+JW001007,Drug amount discarded/not administered to any patient,Discarded drug not administe,,,C,,200301012003,2025-09-12 20:34:03
+JZ001007,Zero drug amount discarded/not administered to any patient,Zero drug wasted,,,C,,202301012023,2025-09-12 20:34:03
+K0001007,Lower extremity prosthesis functional level 0 - does not have the ability or,Lwr ext prost functnl lvl 0,,,C,,199301012003,2025-09-12 20:34:03
+K0002008,potential to ambulate or transfer safely with or without assistance and a,,,,,,,2025-09-12 20:34:03
+K0003008,prosthesis does not enhance their quality of life or mobility.,,,,,,,2025-09-12 20:34:03
+K1001007,Lower extremity prosthesis functional level 1 - has the ability or potential to,Lwr ext prost functnl lvl 1,,,C,,199301011997,2025-09-12 20:34:03
+K1002008,use a prosthesis for transfers or ambulation on level surfaces at fixed,,,,,,,2025-09-12 20:34:03
+K1003008,cadence. typical of the limited and unlimited household ambulator.,,,,,,,2025-09-12 20:34:03
+K2001007,Lower extremity prosthesis functional level 2 - has the ability or potential,Lwr ext prost functnl lvl 2,,,C,,199301011997,2025-09-12 20:34:03
+K2002008,for ambulation with the ability to traverse low level environmental barriers,,,,,,,2025-09-12 20:34:03
+K2003008,"such as curbs, stairs or uneven surfaces.  typical of the limited community",,,,,,,2025-09-12 20:34:03
+K2004008,ambulator.,,,,,,,2025-09-12 20:34:03
+K3001007,Lower extremity prosthesis functional level 3 - has the ability or potential,Lwr ext prost functnl lvl 3,,,C,,199301011997,2025-09-12 20:34:03
+K3002008,for ambulation with variable cadence.  typical of the community ambulator who,,,,,,,2025-09-12 20:34:03
+K3003008,has the ability to transverse most environmental barriers and may have,,,,,,,2025-09-12 20:34:03
+K3004008,"vocational, therapeutic, or exercise activity that demands prosthetic",,,,,,,2025-09-12 20:34:03
+K3005008,utilization beyond simple locomotion.,,,,,,,2025-09-12 20:34:03
+K4001007,Lower extremity prosthesis functional level 4 - has the ability or potential,Lwr ext prost functnl lvl 4,,,C,,199301011997,2025-09-12 20:34:03
+K4002008,"for prosthetic ambulation that exceeds the basic ambulation skills, exhibiting",,,,,,,2025-09-12 20:34:03
+K4003008,"high impact, stress, or energy levels, typical of the prosthetic demands of the",,,,,,,2025-09-12 20:34:03
+K4004008,"child, active adult, or athlete.",,,,,,,2025-09-12 20:34:03
+KA001007,Add on option/accessory for wheelchair,Wheelchair add-on option/acc,,,C,,199401011997,2025-09-12 20:34:03
+KB001007,"Beneficiary requested upgrade for abn, more than 4 modifiers identified on clai",m>4 modifiers on claim,,,C,,200301012003,2025-09-12 20:34:03
+KC001007,Replacement of special power wheelchair interface,Repl special pwr wc intrface,,,C,,200501012005,2025-09-12 20:34:03
+KD001007,Drug or biological infused through dme,Drug/biological dme infused,,,C,,200401012004,2025-09-12 20:34:03
+KE001007,Bid under round one of the dmepos competitive bidding program for use with,Bid under round 1 dmepos cb,,,C,,200901012009,2025-09-12 20:34:03
+KE002008,non-competitive bid base equipment,,,,,,,2025-09-12 20:34:03
+KF001007,Item designated by fda as class iii device,Fda class iii device,,,C,,200404012004,2025-09-12 20:34:03
+KG001007,Dmepos item subject to dmepos competitive bidding program number 1,Dmepos comp bid prgm no 1,,,C,,200707012007,2025-09-12 20:34:03
+KH001007,"Dmepos item, initial claim, purchase or first month rental","Dmepos ini clm, pur/1 mo rnt",,,C,,199401011997,2025-09-12 20:34:03
+KI001007,"Dmepos item, second or third month rental",Dmepos 2nd or 3rd mo rental,,,C,,199401011997,2025-09-12 20:34:03
+KJ001007,"Dmepos item, parenteral enteral nutrition (pen) pump or capped rental, months",Dmepos pen pmp or 4-15mo rnt,,,C,,199401011997,2025-09-12 20:34:03
+KJ002008,four to fifteen,,,,,,,2025-09-12 20:34:03
+KK001007,Dmepos item subject to dmepos competitive bidding program number 2,Dmepos comp bid prgm no 2,,,C,,200707012007,2025-09-12 20:34:03
+KL001007,Dmepos item delivered via mail,Dmepos mailorder comp bid,,,C,,200707012009,2025-09-12 20:34:03
+KM001007,Replacement of facial prosthesis including new impression/moulage,Rplc facial prosth new imp,,,C,,199601012001,2025-09-12 20:34:03
+KN001007,Replacement of facial prosthesis using previous master model,Rplc facial prosth old mod,,,C,,199601012001,2025-09-12 20:34:03
+KO001007,Single drug unit dose formulation,Single drug unit dose form,,,C,,199704011997,2025-09-12 20:34:03
+KP001007,First drug of a multiple drug unit dose formulation,First drug of multi drug u d,,,C,,199704011997,2025-09-12 20:34:03
+KQ001007,Second or subsequent drug of a multiple drug unit dose formulation,2nd/subsqnt drg multi drg ud,,,C,,199704011997,2025-09-12 20:34:03
+KR001007,"Rental item, billing for partial month",Rental item partial month,,,C,,200201012002,2025-09-12 20:34:03
+KS001007,Glucose monitor supply for diabetic beneficiary not treated with insulin,Glucose monitor supply,,,D,0074,199810011998,2025-09-12 20:34:03
+KT001007,Beneficiary resides in a competitive bidding area and travels outside that,Item from noncontract supply,,,C,,200707012008,2025-09-12 20:34:03
+KT002008,competitive bidding area and receives a competitive bid item,,,,,,,2025-09-12 20:34:03
+KU001007,Dmepos item subject to dmepos competitive bidding program number 3,Dmepos comp bid prgm no 3,,,C,,200707012007,2025-09-12 20:34:03
+KV001007,Dmepos item subject to dmepos competitive bidding program that is furnished as,"Dmepos item, profession serv",,,C,,200801012008,2025-09-12 20:34:03
+KV002008,part of a professional service,,,,,,,2025-09-12 20:34:03
+KW001007,Dmepos item subject to dmepos competitive bidding program number 4,Dmepos comp bid prgm no 4,,,C,,200801012008,2025-09-12 20:34:03
+KX001007,Requirements specified in the medical policy have been met,Documentation on file,,,C,,200207012002,2025-09-12 20:34:03
+KY001007,Dmepos item subject to dmepos competitive bidding program number 5,Dmepos comp bid prgm no 5,,,C,,200801012008,2025-09-12 20:34:03
+KZ001007,New coverage not implemented by managed care,New cov not implement by m+c,,,C,,200310012003,2025-09-12 20:34:03
+L1001007,Provider attestation that the hospital laboratory test(s) is not packaged under,Separately payable lab test,,,C,,201407012017,2025-09-12 20:34:03
+L1002008,the hospital opps,,,,,,,2025-09-12 20:34:03
+LC001007,Left circumflex coronary artery,Lft circum coronary artery,,,C,,199701011997,2025-09-12 20:34:03
+LD001007,Left anterior descending coronary artery,Left ant des coronary artery,,,C,,199701011997,2025-09-12 20:34:03
+LL001007,Lease/rental (use the 'll' modifier when dme equipment rental is to be applied,Lease/rental (appld to pur),,,C,,198401011997,2025-09-12 20:34:03
+LL002008,against the purchase price),,,,,,,2025-09-12 20:34:03
+LM001007,Left main coronary artery,Left main coronary artery,,,C,,201301012013,2025-09-12 20:34:03
+LR001007,Laboratory round trip,Laboratory round trip,,,C,,198701011997,2025-09-12 20:34:03
+LS001007,Fda-monitored intraocular lens implant,Fda-monitored iol implant            65-7,,,D,,199101011997,2025-09-12 20:34:03
+LT001007,Left side (used to identify procedures performed on the left side of the body),Left side,,,C,,198401011997,2025-09-12 20:34:03
+LU001007,Fractionated payment,Fractionated payment,,,C,,202201012023,2025-09-12 20:34:03
+M2001007,Medicare secondary payer (msp),Medicare secondary payer,,,C,,200701012007,2025-09-12 20:34:03
+MA001007,Ordering professional is not required to consult a clinical decision support,Emer med cond susp/confirm,,,C,,202001012025,2025-09-12 20:34:03
+MA002008,mechanism due to service being rendered to a patient with a suspected or,,,,,,,2025-09-12 20:34:03
+MA003008,confirmed emergency medical condition,,,,,,,2025-09-12 20:34:03
+MB001007,Ordering professional is not required to consult a clinical decision support,"Auc hardship, insuf internet",,,C,,202001012025,2025-09-12 20:34:03
+MB002008,mechanism due to the significant hardship exception of insufficient internet,,,,,,,2025-09-12 20:34:03
+MB003008,access,,,,,,,2025-09-12 20:34:03
+MC001007,Ordering professional is not required to consult a clinical decision support,"Auc hardship, vendor issues",,,C,,202001012025,2025-09-12 20:34:03
+MC002008,mechanism due to the significant hardship exception of electronic health record,,,,,,,2025-09-12 20:34:03
+MC003008,or clinical decision support mechanism vendor issues,,,,,,,2025-09-12 20:34:03
+MD001007,Ordering professional is not required to consult a clinical decision support,"Auc hardship, extreme circ",,,C,,202001012025,2025-09-12 20:34:03
+MD002008,mechanism due to the significant hardship exception of extreme and,,,,,,,2025-09-12 20:34:03
+MD003008,uncontrollable circumstances,,,,,,,2025-09-12 20:34:03
+ME001007,The order for this service adheres to appropriate use criteria in the clinical,Order adheres to auc,,,C,,202001012025,2025-09-12 20:34:03
+ME002008,decision support mechanism consulted by the ordering professional,,,,,,,2025-09-12 20:34:03
+MF001007,The order for this service does not adhere to the appropriate use criteria in,Order does not adhere to auc,,,C,,202001012025,2025-09-12 20:34:03
+MF002008,the clinical decision support mechanism consulted by the ordering professional,,,,,,,2025-09-12 20:34:03
+MG001007,The order for this service does not have applicable appropriate use criteria in,Auc not applicable to order,,,C,,202001012025,2025-09-12 20:34:03
+MG002008,the qualified clinical decision support mechanism consulted by the ordering,,,,,,,2025-09-12 20:34:03
+MG003008,professional,,,,,,,2025-09-12 20:34:03
+MH001007,Unknown if ordering professional consulted a clinical decision support,Auc consult not provided,,,C,,202001012025,2025-09-12 20:34:03
+MH002008,"mechanism for this service, related information was not provided to the",,,,,,,2025-09-12 20:34:03
+MH003008,furnishing professional or provider,,,,,,,2025-09-12 20:34:03
+MS001007,Six month maintenance and servicing fee for reasonable and necessary parts and,6-mo maint/svc fee parts/lbr,,,C,,198901011997,2025-09-12 20:34:03
+MS002008,labor which are not covered under any manufacturer or supplier warranty,,,,,,,2025-09-12 20:34:03
+N1001007,Group 1 oxygen coverage criteria met,Group 1 oxygen cov crit met,,,C,,202301012023,2025-09-12 20:34:03
+N2001007,Group 2 oxygen coverage criteria met,Group 2 oxygen cov crit met,,,C,,202301012023,2025-09-12 20:34:03
+N3001007,Group 3 oxygen coverage criteria met,Group 3 oxygen cov crit met,,,C,,202301012023,2025-09-12 20:34:03
+NB001007,"Nebulizer system, any type, fda-cleared for use with specific drug",Drug specific nebulizer,,,C,,201101012011,2025-09-12 20:34:03
+NR001007,New when rented (use the 'nr' modifier when dme which was new at the time of,New when rented,,,C,,198401011997,2025-09-12 20:34:03
+NR002008,rental is subsequently purchased),,,,,,,2025-09-12 20:34:03
+NU001007,New equipment,New equipment,,,C,,198401011997,2025-09-12 20:34:03
+P1001007,A normal healthy patient,Normal healthy patient,,,C,,200601012006,2025-09-12 20:34:03
+P2001007,A patient with mild systemic disease,Patient w/mild syst disease,,,C,,200601012006,2025-09-12 20:34:03
+P3001007,A patient with severe systemic disease,Patient w/severe sys disease,,,C,,200601012006,2025-09-12 20:34:03
+P4001007,A patient with severe systemic disease that is a constant threat to life,Pt w/sev sys dis threat life,,,C,,200601012006,2025-09-12 20:34:03
+P5001007,A moribund patient who is not expected to survive without the operation,Pt not expect surv w/o oper,,,C,,200601012006,2025-09-12 20:34:03
+P6001007,A declared brain-dead patient whose organs are being removed for donor purposes,Brain-dead pt organs removed,,,C,,200601012006,2025-09-12 20:34:03
+PA001007,Surgical or other invasive procedure on wrong body part,"Surgery, wrong body part",,,I,,200907012009,2025-09-12 20:34:03
+PB001007,Surgical or other invasive procedure on wrong patient,"Surgery, wrong patient",,,I,,200907012009,2025-09-12 20:34:03
+PC001007,Wrong surgery or other invasive procedure on patient,Wrong surgery on patient,,,I,,200907012009,2025-09-12 20:34:03
+PD001007,Diagnostic or related non diagnostic item or service provided in a wholly owned,Inp admit w/in 3 days,,,C,,201201012012,2025-09-12 20:34:03
+PD002008,or operated entity to a patient who is admitted as an inpatient within 3 days,,,,,,,2025-09-12 20:34:03
+PI001007,Positron emission tomography (pet) or pet/computed tomography (ct) to inform,Pet tumor init tx strat,,,C,,200907012009,2025-09-12 20:34:03
+PI002008,the initial treatment strategy of tumors that are biopsy proven or strongly,,,,,,,2025-09-12 20:34:03
+PI003008,suspected of being cancerous based on other diagnostic testing,,,,,,,2025-09-12 20:34:03
+PL001007,Progressive addition lenses,Progressive addition lenses,,,C,,198901011997,2025-09-12 20:34:03
+PM001007,Post mortem,Post mortem,,,C,,201401012014,2025-09-12 20:34:03
+PN001007,"Non-excepted service provided at an off-campus, outpatient, provider-based",Non-excepted off-campus svc,,,C,0207,201701012017,2025-09-12 20:34:03
+PN002008,department of a hospital,,,,,,,2025-09-12 20:34:03
+PO001007,"Excepted service provided at an off-campus, outpatient, provider-based",Excepted off-campus service,,,C,0207,201501012017,2025-09-12 20:34:03
+PO002008,department of a hospital,,,,,,,2025-09-12 20:34:03
+PS001007,Positron emission tomography (pet) or pet/computed tomography (ct) to inform,Pet tumor subsq tx strategy,,,C,,200907012009,2025-09-12 20:34:03
+PS002008,the subsequent treatment strategy of cancerous tumors when the beneficiary's,,,,,,,2025-09-12 20:34:03
+PS003008,treating physician determines that the pet study is needed to inform subsequent,,,,,,,2025-09-12 20:34:03
+PS004008,anti-tumor strategy,,,,,,,2025-09-12 20:34:03
+PT001007,Colorectal cancer screening test; converted to diagnostic test or other,Clrctal screen to diagn,,,C,,201101012011,2025-09-12 20:34:03
+PT002008,procedure,,,,,,,2025-09-12 20:34:03
+Q0001007,Investigational clinical service provided in a clinical research study that is,Invest clinical research,,,D,0146,200801012008,2025-09-12 20:34:03
+Q0002008,in an approved clinical research study,,,,,,,2025-09-12 20:34:03
+Q1001007,Routine clinical service provided in a clinical research study that is in an,Routine clinical research,,,D,0146,200801012008,2025-09-12 20:34:03
+Q1002008,approved clinical research study,,,,,,,2025-09-12 20:34:03
+Q2001007,Demonstration procedure/service,"Demo procedure, service",,,C,0046,199201012017,2025-09-12 20:34:03
+Q3001007,Live kidney donor surgery and related services,Live donor surgery/services,,,C,,199501012003,2025-09-12 20:34:03
+Q4001007,Service for ordering/referring physician qualifies as a service exemption,Svc exempt - ordrg/rfrng md,,,C,,199401011997,2025-09-12 20:34:03
+Q5001007,Service furnished under a reciprocal billing arrangement by a substitute,Recip bill arr subs md or pt                           3060.6,,,D,,199301012017,2025-09-12 20:34:03
+Q5002008,physician or by a substitute physical therapist furnishing outpatient physical,,,,,,,2025-09-12 20:34:03
+Q5003008,"therapy services in a health professional shortage area, a medically",,,,,,,2025-09-12 20:34:03
+Q5004008,"underserved area, or a rural area",,,,,,,2025-09-12 20:34:03
+Q6001007,Service furnished under a fee-for-time compensation arrangement by a substitute,Fee/time comp subst md or pt                           3060.7,,,D,,199301012017,2025-09-12 20:34:03
+Q6002008,physician or by a substitute physical therapist furnishing outpatient physical,,,,,,,2025-09-12 20:34:03
+Q6003008,"therapy services in a health professional shortage area, a medically",,,,,,,2025-09-12 20:34:03
+Q6004008,"underserved area, or a rural area",,,,,,,2025-09-12 20:34:03
+Q7001007,One class a finding,One class a finding,,,C,,199501011997,2025-09-12 20:34:03
+Q8001007,Two class b findings,Two class b findings,,,C,,199501011997,2025-09-12 20:34:03
+Q9001007,One class b and two class c findings,1 class b & 2 class c fndngs,,,C,,199501011997,2025-09-12 20:34:03
+QA001007,Prescribed amounts of stationary oxygen for daytime use while at rest and,Avg sta day/night o2 < 1 lpm,,,C,,201804012018,2025-09-12 20:34:03
+QA002008,nighttime use differ and the average of the two amounts is less than 1 liter,,,,,,,2025-09-12 20:34:03
+QA003008,per minute (lpm),,,,,,,2025-09-12 20:34:03
+QB001007,Prescribed amounts of stationary oxygen for daytime use while at rest and,Avg day/nite o2 > 4 lpm/port,,,C,,201804012018,2025-09-12 20:34:03
+QB002008,nighttime use differ and the average of the two amounts exceeds 4 liters per,,,,,,,2025-09-12 20:34:03
+QB003008,minute (lpm) and portable oxygen is prescribed,,,,,,,2025-09-12 20:34:03
+QC001007,Single channel monitoring,Single channel monitoring,,,C,,198901011997,2025-09-12 20:34:03
+QD001007,Recording and storage in solid state memory by a digital recorder,Rcrdg/strg in sld st memory,,,C,,198901011997,2025-09-12 20:34:03
+QE001007,Prescribed amount of stationary oxygen while at rest is less than 1 liter per,Stationary o2 @ rest <1 lpm,,,C,,198901012018,2025-09-12 20:34:03
+QE002008,minute (lpm),,,,,,,2025-09-12 20:34:03
+QF001007,Prescribed amount of stationary oxygen while at rest exceeds 4 liters per,Station o2 @ rest >4lpm/port,,,C,,198901012018,2025-09-12 20:34:03
+QF002008,minute (lpm) and portable oxygen is prescribed,,,,,,,2025-09-12 20:34:03
+QG001007,Prescribed amount of stationary oxygen while at rest is greater than 4 liters,Station o2 @ rest > 4 lpm,,,C,,198901012018,2025-09-12 20:34:03
+QG002008,per minute (lpm),,,,,,,2025-09-12 20:34:03
+QH001007,Oxygen conserving device is being used with an oxygen delivery system,Oxygen cnsrvg dvc w del sys,,,C,,198901011997,2025-09-12 20:34:03
+QJ001007,"Services/items provided to a prisoner or patient in state or local custody,",Patient in state/locl custod,,,D,0111,200301012003,2025-09-12 20:34:03
+QJ002008,"however the state or local government, as applicable, meets the requirements in",,,,,,,2025-09-12 20:34:03
+QJ003008,42 cfr 411.4 (b),,,,,,,2025-09-12 20:34:03
+QK001007,"Medical direction of two, three, or four concurrent anesthesia procedures",Med dir 2-4 cncrnt anes proc                           3350.5,,,D,,199501012001,2025-09-12 20:34:03
+QK002008,involving qualified individuals,,,,,,,2025-09-12 20:34:03
+QL001007,Patient pronounced dead after ambulance called,Patient died after amb call,,,C,,199901011999,2025-09-12 20:34:03
+QM001007,Ambulance service provided under arrangement by a provider of services,Ambulance arr by provider,,,C,,199601011999,2025-09-12 20:34:03
+QN001007,Ambulance service furnished directly by a provider of services,Ambulance furn by provider,,,C,,199601011999,2025-09-12 20:34:03
+QP001007,Documentation is on file showing that the laboratory test(s) was ordered,Individually ordered lab tst                           7517.1,,,D,,199601011996,2025-09-12 20:34:03
+QP002008,individually or ordered as a cpt-recognized panel other than automated profile,,,,,,,2025-09-12 20:34:03
+QP003008,"codes 80002-80019, g0058, g0059, and g0060.",,,,,,,2025-09-12 20:34:03
+QQ001007,Ordering professional consulted a qualified clinical decision support mechanism,Qualified cdsm consulted,,,C,,201807012025,2025-09-12 20:34:03
+QQ002008,for this service and the related data was provided to the furnishing,,,,,,,2025-09-12 20:34:03
+QQ003008,professional,,,,,,,2025-09-12 20:34:03
+QR001007,Prescribed amounts of stationary oxygen for daytime use while at rest and,Avg sta day/night o2 > 4 lpm,,,C,,201804012018,2025-09-12 20:34:03
+QR002008,nighttime use differ and the average of the two amounts is greater than 4,,,,,,,2025-09-12 20:34:03
+QR003008,liters per minute (lpm),,,,,,,2025-09-12 20:34:03
+QS001007,Monitored anesthesia care service,Monitored anesthesia care            15018I,,,D,,199001011996,2025-09-12 20:34:03
+QT001007,Recording and storage on tape by an analog tape recorder,Rcrdg/strg tape analog recdr,,,C,,198901011997,2025-09-12 20:34:03
+QW001007,Clia waived test,Clia waived test,,,C,,199601011996,2025-09-12 20:34:03
+QX001007,Crna service: with medical direction by a physician,Crna svc w/ md med direction,,,C,,199301011997,2025-09-12 20:34:03
+QY001007,Medical direction of one certified registered nurse anesthetist (crna) by an,Medically directed crna                                3350.5,,,D,,199801012001,2025-09-12 20:34:03
+QY002008,anesthesiologist,,,,,,,2025-09-12 20:34:03
+QZ001007,Crna service: without medical direction by a physician,Crna svc w/o med dir by md,,,C,,199301011997,2025-09-12 20:34:03
+RA001007,"Replacement of a dme, orthotic or prosthetic item",Replacement of dme item,,,C,,200901012011,2025-09-12 20:34:03
+RB001007,"Replacement of a part of a dme, orthotic or prosthetic item furnished as part","Replacement part, dme item",,,C,,200901012011,2025-09-12 20:34:03
+RB002008,of a repair,,,,,,,2025-09-12 20:34:03
+RC001007,Right coronary artery,Right coronary artery,,,C,,199701011997,2025-09-12 20:34:03
+RD001007,"Drug provided to beneficiary, but not administered ""incident-to""",Drug admin not incident-to,,,C,,200401012004,2025-09-12 20:34:03
+RE001007,Furnished in full compliance with fda-mandated risk evaluation and mitigation,Furnish full compliance rems,,,C,,200901012009,2025-09-12 20:34:03
+RE002008,strategy (rems),,,,,,,2025-09-12 20:34:03
+RI001007,Ramus intermedius coronary artery,Ramus intermedius cor artery,,,C,,201301012013,2025-09-12 20:34:03
+RR001007,Rental (use the 'rr' modifier when dme is to be rented),Rental (dme),,,C,,198401011997,2025-09-12 20:34:03
+RT001007,Right side (used to identify procedures performed on the right side of the body,)Right side,,,C,,198401011997,2025-09-12 20:34:03
+SA001007,Nurse practitioner rendering service in collaboration with a physician,Nurse practitioner w physici,,,I,,200107012001,2025-09-12 20:34:03
+SB001007,Nurse midwife,Nurse midwife,,,I,,200107012001,2025-09-12 20:34:03
+SC001007,Medically necessary service or supply,Medically necessary serv/sup,,,C,,200107012011,2025-09-12 20:34:03
+SD001007,"Services provided by registered nurse with specialized, highly technical home",Serv by home infusion rn,,,I,,200107012001,2025-09-12 20:34:03
+SD002008,infusion training,,,,,,,2025-09-12 20:34:03
+SE001007,State and/or federally-funded programs/services,State/fed funded program/ser,,,I,,200107012001,2025-09-12 20:34:03
+SF001007,Second opinion ordered by a professional review organization (pro) per section,2nd opinion ordered by pro,,,C,,198701011997,2025-09-12 20:34:03
+SF002008,"9401, p.l. 99-272 (100% reimbursement - no medicare deductible or coinsurance)",,,,,,,2025-09-12 20:34:03
+SG001007,Ambulatory surgical center (asc) facility service,Asc facility service,,,C,,199201011997,2025-09-12 20:34:03
+SH001007,Second concurrently administered infusion therapy,2nd concurrent infusion ther,,,I,,200107012001,2025-09-12 20:34:03
+SJ001007,Third or more concurrently administered infusion therapy,3rd concurrent infusion ther,,,I,,200107012001,2025-09-12 20:34:03
+SK001007,Member of high risk population (use only with codes for immunization),High risk population,,,I,,200204012002,2025-09-12 20:34:03
+SL001007,State supplied vaccine,State supplied vaccine,,,I,,200204012002,2025-09-12 20:34:03
+SM001007,Second surgical opinion,Second opinion,,,I,,200207012002,2025-09-12 20:34:03
+SN001007,Third surgical opinion,Third opinion,,,I,,200207012002,2025-09-12 20:34:03
+SQ001007,Item ordered by home health,Item ordered by home health,,,I,,200210012002,2025-09-12 20:34:03
+SS001007,Home infusion services provided in the infusion suite of the iv therapy provide,rHit in infusion suite,,,I,,200410012004,2025-09-12 20:34:03
+ST001007,Related to trauma or injury,Related to trauma or injury,,,I,,200301012003,2025-09-12 20:34:03
+SU001007,Procedure performed in physician's office (to denote use of facility and,Performed in phys office,,,I,,200301012003,2025-09-12 20:34:03
+SU002008,equipment),,,,,,,2025-09-12 20:34:03
+SV001007,Pharmaceuticals delivered to patient's home but not utilized,Drugs delivered not used,,,I,,200301012003,2025-09-12 20:34:03
+SW001007,Services provided by a certified diabetic educator,Serv by cert diab educator,,,C,,200404012004,2025-09-12 20:34:03
+SY001007,Persons who are in close contact with member of high-risk population (use only,Contact w/high-risk pop,,,I,,200501012005,2025-09-12 20:34:03
+SY002008,with codes for immunization),,,,,,,2025-09-12 20:34:03
+SZ001007,Habilitative services,Habilitative services,,,C,,201407012018,2025-09-12 20:34:03
+T1001007,"Left foot, second digit","Left foot, second digit",,,C,,199501011999,2025-09-12 20:34:03
+T2001007,"Left foot, third digit","Left foot, third digit",,,C,,199501011999,2025-09-12 20:34:03
+T3001007,"Left foot, fourth digit","Left foot, fourth digit",,,C,,199501011999,2025-09-12 20:34:03
+T4001007,"Left foot, fifth digit","Left foot, fifth digit",,,C,,199501011999,2025-09-12 20:34:03
+T5001007,"Right foot, great toe","Right foot, great toe",,,C,,199501011999,2025-09-12 20:34:03
+T6001007,"Right foot, second digit","Right foot, second digit",,,C,,199501011999,2025-09-12 20:34:03
+T7001007,"Right foot, third digit","Right foot, third digit",,,C,,199501011999,2025-09-12 20:34:03
+T8001007,"Right foot, fourth digit","Right foot, fourth digit",,,C,,199501011999,2025-09-12 20:34:03
+T9001007,"Right foot, fifth digit","Right foot, fifth digit",,,C,,199501011999,2025-09-12 20:34:03
+TA001007,"Left foot, great toe","Left foot, great toe",,,C,,199501011999,2025-09-12 20:34:03
+TB001007,"Drug or biological acquired with 340b drug pricing program discount, reported",340b drug,,,C,,201801012025,2025-09-12 20:34:03
+TB002008,for informational purposes,,,,,,,2025-09-12 20:34:03
+TC001007,"Technical component; under certain circumstances, a charge may be made for the",Technical component,,,C,,198401011997,2025-09-12 20:34:03
+TC002008,technical component alone;  under those circumstances the technical component,,,,,,,2025-09-12 20:34:03
+TC003008,charge is identified by adding modifier 'tc' to the usual procedure number;,,,,,,,2025-09-12 20:34:03
+TC004008,technical component charges are institutional charges and not billed separately,,,,,,,2025-09-12 20:34:03
+TC005008,"by physicians; however, portable x-ray suppliers only bill for technical",,,,,,,2025-09-12 20:34:03
+TC006008,component and should utilize modifier tc; the charge data from portable x-ray,,,,,,,2025-09-12 20:34:03
+TC007008,suppliers will then be used to build customary and prevailing profiles,,,,,,,2025-09-12 20:34:03
+TD001007,Rn,Rn,,,I,,200107012001,2025-09-12 20:34:03
+TE001007,Lpn/lvn,Lpn/lvn,,,I,,200107012001,2025-09-12 20:34:03
+TF001007,Intermediate level of care,Intermediate level of care,,,I,,200107012001,2025-09-12 20:34:03
+TG001007,Complex/high tech level of care,Complex/high tech level care,,,I,,200107012001,2025-09-12 20:34:03
+TH001007,"Obstetrical treatment/services, prenatal or postpartum",Ob tx/srvcs prenatl/postpart,,,I,,200107012001,2025-09-12 20:34:03
+TJ001007,"Program group, child and/or adolescent",Child/adolescent program gp,,,I,,200107012001,2025-09-12 20:34:03
+TK001007,"Extra patient or passenger, non-ambulance",Extra patient or passenger,,,I,,200204012002,2025-09-12 20:34:03
+TL001007,Early intervention/individualized family service plan (ifsp),Early intervention ifsp,,,I,,200204012002,2025-09-12 20:34:03
+TM001007,Individualized education program (iep),Individualized ed prgrm(iep),,,I,,200204012002,2025-09-12 20:34:03
+TN001007,Rural/outside providers' customary service area,Rural/out of service area,,,I,,200204012002,2025-09-12 20:34:03
+TP001007,"Medical transport, unloaded vehicle",Med transprt unloaded vehicl,,,I,,200204012002,2025-09-12 20:34:03
+TQ001007,Basic life support transport by a volunteer ambulance provider,Bls by volunteer amb providr,,,I,,200204012002,2025-09-12 20:34:03
+TR001007,School-based individualized education program (iep) services provided outside,School-based iep out of dist,,,I,,200207012002,2025-09-12 20:34:03
+TR002008,the public school district responsible for the student,,,,,,,2025-09-12 20:34:03
+TS001007,Follow-up service,Follow-up service,,,C,,200210012006,2025-09-12 20:34:03
+TT001007,Individualized service provided to more than one patient in same setting,Additional patient,,,I,,200210012002,2025-09-12 20:34:03
+TU001007,"Special payment rate, overtime",Overtime payment rate,,,I,,200301012003,2025-09-12 20:34:03
+TV001007,"Special payment rates, holidays/weekends",Holiday/weekend payment rate,,,I,,200301012003,2025-09-12 20:34:03
+TW001007,Back-up equipment,Back-up equipment,,,I,,200301012003,2025-09-12 20:34:03
+U1001007,"Medicaid level of care 1, as defined by each state",M/caid care lev 1 state def,,,I,,200207012002,2025-09-12 20:34:03
+U2001007,"Medicaid level of care 2, as defined by each state",M/caid care lev 2 state def,,,I,,200207012002,2025-09-12 20:34:03
+U3001007,"Medicaid level of care 3, as defined by each state",M/caid care lev 3 state def,,,I,,200207012002,2025-09-12 20:34:03
+U4001007,"Medicaid level of care 4, as defined by each state",M/caid care lev 4 state def,,,I,,200207012002,2025-09-12 20:34:03
+U5001007,"Medicaid level of care 5, as defined by each state",M/caid care lev 5 state def,,,I,,200207012002,2025-09-12 20:34:03
+U6001007,"Medicaid level of care 6, as defined by each state",M/caid care lev 6 state def,,,I,,200207012002,2025-09-12 20:34:03
+U7001007,"Medicaid level of care 7, as defined by each state",M/caid care lev 7 state def,,,I,,200207012002,2025-09-12 20:34:03
+U8001007,"Medicaid level of care 8, as defined by each state",M/caid care lev 8 state def,,,I,,200207012002,2025-09-12 20:34:03
+U9001007,"Medicaid level of care 9, as defined by each state",M/caid care lev 9 state def,,,I,,200207012002,2025-09-12 20:34:03
+UA001007,"Medicaid level of care 10, as defined by each state",M/caid care lev 10 state def,,,I,,200207012002,2025-09-12 20:34:03
+UB001007,"Medicaid level of care 11, as defined by each state",M/caid care lev 11 state def,,,I,,200207012002,2025-09-12 20:34:03
+UC001007,"Medicaid level of care 12, as defined by each state",M/caid care lev 12 state def,,,I,,200207012002,2025-09-12 20:34:03
+UD001007,"Medicaid level of care 13, as defined by each state",M/caid care lev 13 state def,,,I,,200207012002,2025-09-12 20:34:03
+UE001007,Used durable medical equipment,Used durable med equipment,,,C,,198401011997,2025-09-12 20:34:03
+UF001007,Services provided in the morning,"Services provided, morning",,,I,,200304012003,2025-09-12 20:34:03
+UG001007,Services provided in the afternoon,"Services provided, afternoon",,,I,,200304012003,2025-09-12 20:34:03
+UH001007,Services provided in the evening,"Services provided, evening",,,I,,200304012003,2025-09-12 20:34:03
+UJ001007,Services provided at night,"Services provided, night",,,C,,200304012017,2025-09-12 20:34:03
+UK001007,Services provided on behalf of the client to someone other than the client,Svc on behalf client-collat,,,I,,200304012003,2025-09-12 20:34:03
+UK002008,(collateral relationship),,,,,,,2025-09-12 20:34:03
+UN001007,Two patients served,Two patients served,,,C,0114,200401012004,2025-09-12 20:34:03
+UP001007,Three patients served,Three patients served,,,C,0114,200401012004,2025-09-12 20:34:03
+UQ001007,Four patients served,Four patients served,,,C,0114,200401012004,2025-09-12 20:34:03
+UR001007,Five patients served,Five patients served,,,C,0114,200401012004,2025-09-12 20:34:03
+US001007,Six or more patients served,Six or more patients served,,,C,0114,200401012004,2025-09-12 20:34:03
+V1001007,Demonstration modifier 1,Demonstration modifier 1,,,C,,201701012017,2025-09-12 20:34:03
+V2001007,Demonstration modifier 2,Demonstration modifier 2,,,C,,201701012017,2025-09-12 20:34:03
+V3001007,Demonstration modifier 3,Demonstration modifier 3,,,C,,201701012017,2025-09-12 20:34:03
+V4001007,Demonstration modifier 4,Demonstration modifier 4,,,C,,202010012020,2025-09-12 20:34:03
+V5001007,Vascular catheter (alone or with any other vascular access),Vascular catheter,,,C,,201001012010,2025-09-12 20:34:03
+V6001007,Arteriovenous graft (or other vascular access not including a vascular catheter,)Arteriovenous graft,,,C,,201001012010,2025-09-12 20:34:03
+V7001007,Arteriovenous fistula only (in use with two needles),Arteriovenous fistula,,,C,,201001012010,2025-09-12 20:34:03
+V8001007,Infection present,Infection present,,,C,,201001012012,2025-09-12 20:34:03
+V9001007,No infection present,No infection present,,,C,,201001012012,2025-09-12 20:34:03
+VM001007,Medicare diabetes prevention program (mdpp) virtual make-up session,Mdpp virtual make-up session,,,C,,201804012018,2025-09-12 20:34:03
+VP001007,Aphakic patient,Aphakic patient,,,C,,198401011997,2025-09-12 20:34:03
+X1001007,"Continuous/broad services: for reporting services by clinicians, who provide",Continuous/broad services,,,C,,201801012018,2025-09-12 20:34:03
+X1002008,"the principal care for a patient, with no planned endpoint of the relationship;",,,,,,,2025-09-12 20:34:03
+X1003008,"services in this category represent comprehensive care, dealing with the entire",,,,,,,2025-09-12 20:34:03
+X1004008,"scope of patient problems, either directly or in a care coordination role;",,,,,,,2025-09-12 20:34:03
+X1005008,"reporting clinician service examples include, but are not limited to: primary",,,,,,,2025-09-12 20:34:03
+X1006008,"care, and clinicians providing comprehensive care to patients in addition to",,,,,,,2025-09-12 20:34:03
+X1007008,specialty care,,,,,,,2025-09-12 20:34:03
+X2001007,Continuous/focused services: for reporting services by clinicians whose,Continuous/focused services,,,C,,201801012018,2025-09-12 20:34:03
+X2002008,expertise is needed for the ongoing management of a chronic disease or a,,,,,,,2025-09-12 20:34:03
+X2003008,condition that needs to be managed and followed with no planned endpoint to the,,,,,,,2025-09-12 20:34:03
+X2004008,relationship; reporting clinician service examples include but are not limited,,,,,,,2025-09-12 20:34:03
+X2005008,to: a rheumatologist taking care of the patient's rheumatoid arthritis,,,,,,,2025-09-12 20:34:03
+X2006008,longitudinally but not providing general primary care services,,,,,,,2025-09-12 20:34:03
+X3001007,Episodic/broad services: for reporting services by clinicians who have broad,Episodic/broad services,,,C,,201801012018,2025-09-12 20:34:03
+X3002008,responsibility for the comprehensive needs of the patient that is limited to a,,,,,,,2025-09-12 20:34:03
+X3003008,defined period and circumstance such as a hospitalization; reporting clinician,,,,,,,2025-09-12 20:34:03
+X3004008,service examples include but are not limited to the hospitalist's services,,,,,,,2025-09-12 20:34:03
+X3005008,rendered providing comprehensive and general care to a patient while admitted,,,,,,,2025-09-12 20:34:03
+X3006008,to the hospital,,,,,,,2025-09-12 20:34:03
+X4001007,Episodic/focused services: for reporting services by clinicians who provide,Episodic/focused services,,,C,,201801012018,2025-09-12 20:34:03
+X4002008,focused care on particular types of treatment limited to a defined period and,,,,,,,2025-09-12 20:34:03
+X4003008,"circumstance; the patient has a problem, acute or chronic, that will be treated",,,,,,,2025-09-12 20:34:03
+X4004008,"with surgery, radiation, or some other type of generally time-limited",,,,,,,2025-09-12 20:34:03
+X4005008,intervention; reporting clinician service examples include but are not limited,,,,,,,2025-09-12 20:34:03
+X4006008,"to, the orthopedic surgeon performing a knee replacement and seeing the patient",,,,,,,2025-09-12 20:34:03
+X4007008,through the postoperative period,,,,,,,2025-09-12 20:34:03
+X5001007,Diagnostic services requested by another clinician: for reporting services by a,Svc req by another clinician,,,C,,201801012018,2025-09-12 20:34:03
+X5002008,clinician who furnishes care to the patient only as requested by another,,,,,,,2025-09-12 20:34:03
+X5003008,clinician or subsequent and related services requested by another clinician;,,,,,,,2025-09-12 20:34:03
+X5004008,this modifier is reported for patient relationships that may not be adequately,,,,,,,2025-09-12 20:34:03
+X5005008,captured by the above alternative categories; reporting clinician service,,,,,,,2025-09-12 20:34:03
+X5006008,"examples include but are not limited to, the radiologist's interpretation of an",,,,,,,2025-09-12 20:34:03
+X5007008,imaging study requested by another clinician,,,,,,,2025-09-12 20:34:03
+XE001007,"Separate encounter, a service that is distinct because it occurred during a",Separate encounter,,,C,,201501012015,2025-09-12 20:34:03
+XE002008,separate encounter,,,,,,,2025-09-12 20:34:03
+XP001007,"Separate practitioner, a service that is distinct because it was performed by a",Separate practitioner,,,C,,201501012015,2025-09-12 20:34:03
+XP002008,different practitioner,,,,,,,2025-09-12 20:34:03
+XS001007,"Separate structure, a service that is distinct because it was performed on a",Separate organ/structure,,,C,,201501012015,2025-09-12 20:34:03
+XS002008,separate organ/structure,,,,,,,2025-09-12 20:34:03
+XU001007,"Unusual non-overlapping service, the use of a service that is distinct because",Unusual separate service,,,C,,201501012015,2025-09-12 20:34:03
+XU002008,it does not overlap usual components of the main service,,,,,,,2025-09-12 20:34:03
+ZA001007,Novartis/sandoz,Novartis/sandoz,,,C,,201601012018,2025-09-12 20:34:03
+ZB001007,Pfizer/hospira,Pfizer/hospira,,,C,,201607012018,2025-09-12 20:34:03
+ZC001007,Merck/samsung bioepis,Merck/samsung bioepis,,,C,,201710012018,2025-09-12 20:34:03
+A0021001003,"Ambulance service, outside state per mile, transport (medicaid only)",Outside state ambulance serv00      9,,A0030,I,O1A,D      0198501011996,2025-09-12 20:34:03
+A0080001003,"Non-emergency transportation, per mile - vehicle provided by volunteer",Noninterest escort in non er00      9,,,I,O1A,D      0198201012003,2025-09-12 20:34:03
+A0080002004,"(individual or organization), with no vested interest",,,,,,,2025-09-12 20:34:03
+A0090001003,"Non-emergency transportation, per mile - vehicle provided by individual (family",Interest escort in non er   00      9,,,I,O1A,D      0198201012003,2025-09-12 20:34:03
+A0090002004,"member, self, neighbor) with vested interest",,,,,,,2025-09-12 20:34:03
+A0100001003,Non-emergency transportation; taxi,Nonemergency transport taxi 00      9,,,I,O1A,D      0198201012003,2025-09-12 20:34:03
+A0110001003,"Non-emergency transportation and bus, intra or inter state carrier",Nonemergency transport bus  00      9,,,I,O1A,D      0198401011995,2025-09-12 20:34:03
+A0120001003,"Non-emergency transportation: mini-bus, mountain area transports, or other",Noner transport mini-bus    00      9,,,I,O1A,D      0198201012003,2025-09-12 20:34:03
+A0120002004,transportation systems,,,,,,,2025-09-12 20:34:03
+A0130001003,Non-emergency transportation: wheelchair van,Noner transport wheelch van 00      9,,,I,O1A,D      0198201011982,2025-09-12 20:34:03
+A0140001003,Non-emergency transportation and air travel (private or commercial) intra or,Nonemergency transport air  00      9,,,I,O1A,D      0198501011996,2025-09-12 20:34:03
+A0140002004,inter state,,,,,,,2025-09-12 20:34:03
+A0160001003,Non-emergency transportation: per mile - case worker or social worker,Noner transport case worker 00      9,,,I,O1A,D      0198401011995,2025-09-12 20:34:03
+A0170001003,"Transportation ancillary: parking fees, tolls, other",Transport parking fees/tolls00      9,,,I,O1A,D      0198201012003,2025-09-12 20:34:03
+A0180001003,Non-emergency transportation: ancillary: lodging-recipient,Noner transport lodgng recip00      9,,,I,O1A,D      0198201011982,2025-09-12 20:34:03
+A0190001003,Non-emergency transportation: ancillary: meals-recipient,Noner transport meals recip 00      9,,,I,O1A,D      0198401011984,2025-09-12 20:34:03
+A0200001003,Non-emergency transportation: ancillary: lodging escort,Noner transport lodgng escrt00      9,,,I,O1A,D      0198201011982,2025-09-12 20:34:03
+A0210001003,Non-emergency transportation: ancillary: meals-escort,Noner transport meals escort00      9,,,I,O1A,D      0198401011984,2025-09-12 20:34:03
+A0225001003,"Ambulance service, neonatal transport, base rate, emergency transport, one way",Neonatal emergency transport00      9,,,I,O1A,D      0198501012003,2025-09-12 20:34:03
+A0380001003,Bls mileage (per mile),Basic life support mileage  00      9,,A0425,I,O1A,D      0199501012003,2025-09-12 20:34:03
+A0382001003,Bls routine disposable supplies,Basic support routine suppls00      9,,,I,O1A,D      0199501012014,2025-09-12 20:34:03
+A0384001003,Bls specialized service disposable supplies; defibrillation (used by als,Bls defibrillation supplies 00      9,,,I,O1A,D      0199501012014,2025-09-12 20:34:03
+A0384002004,ambulances and bls ambulances in jurisdictions where defibrillation is,,,,,,,2025-09-12 20:34:03
+A0384003004,permitted in bls ambulances),,,,,,,2025-09-12 20:34:03
+A0390001003,Als mileage (per mile),Advanced life support mileag00      9,,A0425,I,O1A,D      0199501012003,2025-09-12 20:34:03
+A0392001003,Als specialized service disposable supplies; defibrillation (to be used only in,Als defibrillation supplies 00      9,,,I,O1A,D      0199501012014,2025-09-12 20:34:03
+A0392002004,jurisdictions where defibrillation cannot be performed in bls ambulances),,,,,,,2025-09-12 20:34:03
+A0394001003,Als specialized service disposable supplies; iv drug therapy,Als iv drug therapy supplies00      9,,,I,O1A,D      0199501012014,2025-09-12 20:34:03
+A0396001003,Als specialized service disposable supplies; esophageal intubation,Als esophageal intub suppls 00      9,,,I,O1A,D      0199501012014,2025-09-12 20:34:03
+A0398001003,Als routine disposable supplies,Als routine disposble suppls00      9,,,I,O1A,D      0199501012014,2025-09-12 20:34:03
+A0420001003,"Ambulance waiting time (als or bls), one half (1/2) hour increments",Ambulance waiting 1/2 hr    00      9,,,I,O1A,D      0199501012014,2025-09-12 20:34:03
+A0422001003,"Ambulance (als or bls) oxygen and oxygen supplies, life sustaining situation",Ambulance 02 life sustaining00      9,,,I,O1A,D      0199501012014,2025-09-12 20:34:03
+A0424001003,"Extra ambulance attendant, ground (als or bls) or air (fixed or rotary winged);",Extra ambulance attendant   00      9,,,I,O1A,D      0199501012014,2025-09-12 20:34:03
+A0424002004,(requires medical review),,,,,,,2025-09-12 20:34:03
+A0425001003,"Ground mileage, per statute mile",Ground mileage              52      A,,,C,O1A,D      0200101012001,2025-09-12 20:34:03
+A0426001003,"Ambulance service, advanced life support, non-emergency transport, level 1 (als",Als 1                       52      A,,,C,O1A,D      0200101012001,2025-09-12 20:34:03
+A0426002004,1),,,,,,,2025-09-12 20:34:03
+A0427001003,"Ambulance service, advanced life support, emergency transport, level 1 (als 1 -",Als1-emergency              52      A,,,C,O1A,D      0200101012001,2025-09-12 20:34:03
+A0427002004,emergency),,,,,,,2025-09-12 20:34:03
+A0428001003,"Ambulance service, basic life support, non-emergency transport, (bls)",Bls                         52      A,,,C,O1A,D      0200101012001,2025-09-12 20:34:03
+A0429001003,"Ambulance service, basic life support, emergency transport (bls-emergency)",Bls-emergency               52      A,,,C,O1A,D      0200101012001,2025-09-12 20:34:03
+A0430001003,"Ambulance service, conventional air services, transport, one way (fixed wing)",Fixed wing air transport    52      A,,,C,O1A,D      0200101012001,2025-09-12 20:34:03
+A0431001003,"Ambulance service, conventional air services, transport, one way (rotary wing)",Rotary wing air transport   52      A,,,C,O1A,D      0200101012001,2025-09-12 20:34:03
+A0432001003,"Paramedic intercept (pi), rural area, transport furnished by a volunteer",Pi volunteer ambulance co   52      A,,,C,O1A,D      0200101012001,2025-09-12 20:34:03
+A0432002004,ambulance company which is prohibited by state law from billing third party,,,,,,,2025-09-12 20:34:03
+A0432003004,payers,,,,,,,2025-09-12 20:34:03
+A0433001003,"Advanced life support, level 2 (als 2)",Als 2                       52      A,,,C,O1A,D      0200101012001,2025-09-12 20:34:03
+A0434001003,Specialty care transport (sct),Specialty care transport    52      A,,,C,O1A,D      0200101012001,2025-09-12 20:34:03
+A0435001003,"Fixed wing air mileage, per statute mile",Fixed wing air mileage      52      A,,,C,O1A,D      0200101012001,2025-09-12 20:34:03
+A0436001003,"Rotary wing air mileage, per statute mile",Rotary wing air mileage     52      A,,,C,O1A,D      0200101012001,2025-09-12 20:34:03
+A0888001003,"Noncovered ambulance mileage, per mile (e.g., for miles traveled beyond closest",Noncovered ambulance mileage00      9                  2125,,,M,O1A,D      0199501011995,2025-09-12 20:34:03
+A0888002004,appropriate facility),,,,,,,2025-09-12 20:34:03
+A0998001003,"Ambulance response and treatment, no transport",Ambulance response/treatment00      9,,,I,O1A,D      0200601012006,2025-09-12 20:34:03
+A0999001003,Unlisted ambulance service,Unlisted ambulance service  57      A                  2120.1  2125,,,D,O1A,D      0198701011998,2025-09-12 20:34:03
+A2001001003,"Innovamatrix ac, per square centimeter","Innovamatrix ac, per sq cm  13      A",,,C,P5A,1      0202201012022,2025-09-12 20:34:03
+A2002001003,"Mirragen advanced wound matrix, per square centimeter",Mirragen adv wnd mat per sq 13      A,,,C,P5A,1      0202201012022,2025-09-12 20:34:03
+A2004001003,"Xcellistem, 1 mg","Xcellistem, 1 mg            13      A",,,C,P5A,1      0202201012022,2025-09-12 20:34:03
+A2005001003,"Microlyte matrix, per square centimeter","Microlyte matrix, per sq cm 13      A",,,C,P5A,1      0202201012022,2025-09-12 20:34:03
+A2006001003,"Novosorb synpath dermal matrix, per square centimeter",Novosorb synpath per sq cm  13      A,,,C,P5A,1      0202201012022,2025-09-12 20:34:03
+A2007001003,"Restrata, per square centimeter","Restrata, per sq cm         13      A",,,C,P5A,1      0202201012022,2025-09-12 20:34:03
+A2008001003,"Theragenesis, per square centimeter","Theragenesis, per sq cm     13      A",,,C,P5A,1      0202201012022,2025-09-12 20:34:03
+A2009001003,"Symphony, per square centimeter","Symphony, per sq cm         13      A",,,C,P5A,1      0202201012022,2025-09-12 20:34:03
+A2010001003,"Apis, per square centimeter","Apis, per square centimeter 13      A",,,C,P5A,1      0202201012022,2025-09-12 20:34:03
+A2011001003,"Supra sdrm, per square centimeter","Supra sdrm, per sq cm       13      A",,,C,P5A,1      0202204012022,2025-09-12 20:34:03
+A2012001003,"Suprathel, per square centimeter","Suprathel, per sq cm        13      A",,,C,P5A,1      0202204012022,2025-09-12 20:34:03
+A2013001003,"Innovamatrix fs, per square centimeter","Innovamatrix fs, per sq cm  13      A",,,C,P5A,1      0202204012022,2025-09-12 20:34:03
+A2014001003,"Omeza collagen matrix, per 100 mg",Omeza collag per 100 mg     13      A,,,C,P5A,1      0202210012022,2025-09-12 20:34:03
+A2015001003,"Phoenix wound matrix, per square centimeter","Phoenix wnd mtrx, per sq cm 13      A",,,C,P5A,1      0202210012022,2025-09-12 20:34:03
+A2016001003,"Permeaderm b, per square centimeter","Permeaderm b, per sq cm     13      A",,,C,P5A,1      0202210012022,2025-09-12 20:34:03
+A2017001003,"Permeaderm glove, each","Permeaderm glove, each      13      A",,,C,P5A,1      0202210012022,2025-09-12 20:34:03
+A2018001003,"Permeaderm c, per square centimeter","Permeaderm c, per sq cm     13      A",,,C,P5A,1      0202210012022,2025-09-12 20:34:03
+A2019001003,"Kerecis omega3 marigen shield, per square centimeter",Kerecis marigen shld sq cm  13      A,,,C,P5A,1      0202304012023,2025-09-12 20:34:03
+A2020001003,Ac5 advanced wound system (ac5),Ac5 wound system            13      A,,,C,P5A,1      0202304012023,2025-09-12 20:34:03
+A2021001003,"Neomatrix, per square centimeter",Neomatrix per sq cm         13      A,,,C,P5A,1      0202304012023,2025-09-12 20:34:03
+A2022001003,"Innovaburn or innovamatrix xl, per square centimeter",Innovabrn/innovamatx xl sqcm13      A,,,C,P5A,1      0202310012023,2025-09-12 20:34:03
+A2023001003,"Innovamatrix pd, 1 mg","Innovamatrix pd, 1 mg       13      A",,,C,P5A,1      0202310012023,2025-09-12 20:34:03
+A2024001003,"Resolve matrix or xenopatch, per square centimeter",Resolve or xenopatch sq cm  13      A,,,C,P5A,1      0202310012024,2025-09-12 20:34:03
+A2025001003,"Miro3d, per cubic centimeter",Miro3d per cubic cm         13      A,,,C,P5A,1      0202310012023,2025-09-12 20:34:03
+A2026001003,"Restrata minimatrix, 5 mg","Restrata minimatrix, 5 mg   13      A",,,C,P5A,1      0202404012024,2025-09-12 20:34:03
+A2027001003,"Matriderm, per square centimeter",Matriderm per sq cm         13      A,,,C,P5A,1      0202410012024,2025-09-12 20:34:03
+A2028001003,"Micromatrix flex, per mg",Micromatrix flex per mg     13      A,,,C,P5A,1      0202410012024,2025-09-12 20:34:03
+A2029001003,"Mirotract wound matrix sheet, per cubic centimeter",Mirotract matrix sheet      13      A,,,C,P5A,1      0202410012024,2025-09-12 20:34:03
+A2030001003,"Miro3d fibers, per milligram","Miro3d fibers, per mg       13      A",,,C,P5A,1      0202504012025,2025-09-12 20:34:03
+A2031001003,"Mirodry wound matrix, per square centimeter","Mirodry, per sq cm          13      A",,,C,P5A,1      0202504012025,2025-09-12 20:34:03
+A2032001003,"Myriad matrix, per square centimeter","Myriad matrix, per sq cm    13      A",,,C,P5A,1      0202504012025,2025-09-12 20:34:03
+A2033001003,"Myriad morcells, 4 milligrams","Myriad morcells, 4 mg       13      A",,,C,P5A,1      0202504012025,2025-09-12 20:34:03
+A2034001003,"Foundation drs solo, per square centimeter","Found drs solo, per sq cm   13      A",,,C,P5A,1      0202504012025,2025-09-12 20:34:03
+A2035001003,"Corplex p or theracor p or allacor p, per milligram",Corpl p therac p allac p mg 13      A,,,C,P5A,1      0202504012025,2025-09-12 20:34:03
+A2036001003,"Cohealyx collagen dermal matrix, per square centimeter",Cohealyx col dml mx pr sq cm13      A,,,C,P5A,1      0202510012025,2025-09-12 20:34:03
+A2037001003,"G4derm plus, per milliliter","G4derm plus, per ml         13      A",,,C,P5A,1      0202510012025,2025-09-12 20:34:03
+A2038001003,"Marigen pacto, per square centimeter","Marigen pacto, per sq cm    13      A",,,C,P5A,1      0202510012025,2025-09-12 20:34:03
+A2039001003,"Innovamatrix fd, per square centimeter","Innovamatrix fd, per sq cm  13      A",,,C,P5A,1      0202510012025,2025-09-12 20:34:03
+A4100001003,"Skin substitute, fda cleared as a device, not otherwise specified",Skin sub fda clrd as dev nos13      A,,,C,P5A,1      0202204012022,2025-09-12 20:34:03
+A4206001003,"Syringe with needle, sterile, 1 cc or less, each",1 cc sterile syringe&needle 00      9,,,C,D1A,S      0198501012008,2025-09-12 20:34:03
+A4207001003,"Syringe with needle, sterile 2 cc, each",2 cc sterile syringe&needle 00      9,,,C,D1A,S      0198501012007,2025-09-12 20:34:03
+A4208001003,"Syringe with needle, sterile 3 cc, each",3 cc sterile syringe&needle 00      9,,,C,D1A,S      0198501012007,2025-09-12 20:34:03
+A4209001003,"Syringe with needle, sterile 5 cc or greater, each",5+ cc sterile syringe&needle00      9,,,C,D1A,S      0198501012007,2025-09-12 20:34:03
+A4210001003,"Needle-free injection device, each",Nonneedle injection device  00      960-9,,,M,D1A,S      0198901011996,2025-09-12 20:34:03
+A4211001003,Supplies for self-administered injections,Supp for self-adm injections00      9                  2049,,,D,D1A,S      0199301011997,2025-09-12 20:34:03
+A4212001003,Non-coring needle or stylet with or without catheter,Non coring needle or stylet 57      A,,,C,D1A,S      0199301012000,2025-09-12 20:34:03
+A4213001003,"Syringe, sterile, 20 cc or greater, each",20+ cc syringe only         00      9,,,C,D1A,S      0198501012007,2025-09-12 20:34:03
+A4215001003,"Needle, sterile, any size, each",Sterile needle              00      9,,,C,D1A,LS     0198501012007,2025-09-12 20:34:03
+A4216001003,"Sterile water, saline and/or dextrose, diluent/flush, 10 ml","Sterile water/saline, 10 ml 37      A                  2049",,,D,D1F,1LP    0200401012007,2025-09-12 20:34:03
+A4217001003,"Sterile water/saline, 500 ml","Sterile water/saline, 500 ml37      A                  2049",,,D,D1F,1LP    0200401012004,2025-09-12 20:34:03
+A4218001003,"Sterile saline or water, metered dose dispenser, 10 ml",Sterile saline or water     51      A,,,D,0127O1E,1LP    0200601012006,2025-09-12 20:34:03
+A4220001003,Refill kit for implantable infusion pump,Infusion pump refill kit    57      A60-14,,,D,0050D1A,P      0199401011998,2025-09-12 20:34:03
+A4221001003,"Supplies for maintenance of non-insulin drug infusion catheter, per week (list",Supp non-insulin inf cath/wk34      A,,,C,D1E,P      0199701012017,2025-09-12 20:34:03
+A4221002004,drugs  separately),,,,,,,2025-09-12 20:34:03
+A4222001003,"Infusion supplies for external drug infusion pump, per cassette or bag (list",Infusion supplies with pump 34      A,,,C,D1E,P      0199701012005,2025-09-12 20:34:03
+A4222002004,drugs separately),,,,,,,2025-09-12 20:34:03
+A4223001003,"Infusion supplies not used with external infusion pump, per cassette or bag",Infusion supplies w/o pump  00      9,,,C,D1A,P      0200501012007,2025-09-12 20:34:03
+A4223002004,(list drugs separately),,,,,,,2025-09-12 20:34:03
+A4224001003,"Supplies for maintenance of insulin infusion catheter, per week",Supply insulin inf cath/wk  34      A,,,C,D1E,P      0201701012017,2025-09-12 20:34:03
+A4225001003,"Supplies for external insulin infusion pump, syringe type cartridge, sterile,",Sup/ext insulin inf pump syr34      A                  60-14,,,D,D1E,P      0201701012017,2025-09-12 20:34:03
+A4225002004,each,,,,,,,2025-09-12 20:34:03
+A4226001003,Supplies for maintenance of insulin infusion pump with dosage rate adjustment,Weekly supply maint cgs pump00      9,,,I,Z2,9      0202001012020,2025-09-12 20:34:03
+A4226002004,"using therapeutic continuous glucose sensing, per week",,,,,,,2025-09-12 20:34:03
+A4230001003,"Infusion set for external insulin pump, non needle cannula type",Infus insulin pump non needl34      A60-14,,,D,D1E,P      0199601012000,2025-09-12 20:34:03
+A4231001003,"Infusion set for external insulin pump, needle type",Infusion insulin pump needle34      A60-14,,,D,D1E,P      0199601012000,2025-09-12 20:34:03
+A4232001003,"Syringe with needle for external insulin pump, sterile, 3 cc",Syringe w/needle insulin 3cc00      960-14,,,I,D1E,P      0199601012003,2025-09-12 20:34:03
+A4233001003,"Replacement battery, alkaline (other than j cell), for use with medically",Alkalin batt for glucose mon32      A,,,C,D1E,P      0200601012016,2025-09-12 20:34:03
+A4233002004,"necessary home blood glucose monitor owned by patient, each",,,,,,,2025-09-12 20:34:03
+A4234001003,"Replacement battery, alkaline, j cell, for use with medically necessary home",J-cell batt for glucose mon 32      A,,,C,D1E,P      0200601012016,2025-09-12 20:34:03
+A4234002004,"blood glucose monitor owned by patient, each",,,,,,,2025-09-12 20:34:03
+A4235001003,"Replacement battery, lithium, for use with medically necessary home blood",Lithium batt for glucose mon32      A,,,C,D1E,P      0200601012016,2025-09-12 20:34:03
+A4235002004,"glucose monitor owned by patient, each",,,,,,,2025-09-12 20:34:03
+A4236001003,"Replacement battery, silver oxide, for use with medically necessary home blood",Silvr oxide batt glucose mon32      A,,,C,D1E,P      0200601012016,2025-09-12 20:34:03
+A4236002004,"glucose monitor owned by patient, each",,,,,,,2025-09-12 20:34:03
+A4238001003,"Supply allowance for adjunctive, non-implanted continuous glucose monitor",Adju cgm supply allowance   34      A,,,C,D1E,9      0202204012023,2025-09-12 20:34:03
+A4238002004,"(cgm), includes all supplies and accessories, 1 month supply = 1 unit of servic",e,,,,,,2025-09-12 20:34:03
+A4239001003,"Supply allowance for non-adjunctive, non-implanted continuous glucose monitor",Non-adju cgm supply allow   34      A,,,C,D1E,9      0202301012023,2025-09-12 20:34:03
+A4239002004,"(cgm), includes all supplies and accessories, 1 month supply = 1 unit of servic",e,,,,,,2025-09-12 20:34:03
+A4244001003,"Alcohol or peroxide, per pint",Alcohol or peroxide per pint00      9,,,C,D1A,LS     0198501012007,2025-09-12 20:34:03
+A4245001003,"Alcohol wipes, per box",Alcohol wipes per box       00      9,,,C,D1A,LS     0198501012007,2025-09-12 20:34:03
+A4246001003,"Betadine or phisohex solution, per pint",Betadine/phisohex solution  00      9,,,C,D1A,LS     0198501012007,2025-09-12 20:34:03
+A4247001003,"Betadine or iodine swabs/wipes, per box",Betadine/iodine swabs/wipes 00      9,,,C,D1A,LS     0198501012007,2025-09-12 20:34:03
+A4248001003,"Chlorhexidine containing antiseptic, 1 ml",Chlorhexidine antisept      00      9,,,C,P9B,L      0200401012015,2025-09-12 20:34:03
+A4250001003,Urine test or reagent strips or tablets (100 tablets or strips),Urine reagent strips/tablets00      9                  2100,,,M,T1E,9      0199001011997,2025-09-12 20:34:03
+A4252001003,"Blood ketone test or reagent strip, each",Blood ketone test or strip  00      9                                          1861(n),,,S,D1E,P      0200801012008,2025-09-12 20:34:03
+A4253001003,"Blood glucose test or reagent strips for home blood glucose monitor, per 50",Blood glucose/reagent strips32      A60-11,,,D,D1E,P      0198601011998,2025-09-12 20:34:03
+A4253002004,strips,,,,,,,2025-09-12 20:34:03
+A4255001003,"Platforms for home blood glucose monitor, 50 per box",Glucose monitor platforms   34      A60-11,,,D,D1E,P      0199701012002,2025-09-12 20:34:03
+A4256001003,"Normal, low and high calibrator solution / chips",Calibrator solution/chips   34      A60-11,,,D,D1E,P      0198501012002,2025-09-12 20:34:03
+A4257001003,"Replacement lens shield cartridge for use with laser skin piercing device, each",Replace lensshield cartridge34      A,,,C,D1E,P      0200201012002,2025-09-12 20:34:03
+A4258001003,"Spring-powered device for lancet, each",Lancet device each          34      A60-11,,,D,D1E,P      0199601012002,2025-09-12 20:34:03
+A4259001003,"Lancets, per box of 100",Lancets per box             34      A60-11,,,D,D1E,P      0198501011996,2025-09-12 20:34:03
+A4261001003,Cervical cap for contraceptive use,Cervical cap contraceptive  00      9                                          1862a1,,,S,Z2,9      0199901011999,2025-09-12 20:34:03
+A4262001003,"Temporary, absorbable lacrimal duct implant, each",Temporary tear duct plug    00      9,,,D,0052D1A,9      0199401011998,2025-09-12 20:34:03
+A4263001003,"Permanent, long term, non-dissolvable lacrimal duct implant, each",Permanent tear duct plug    11      A                  15030,,,D,Y1,9      0199401011998,2025-09-12 20:34:03
+A4264001003,Permanent implantable contraceptive intratubal occlusion device(s) and delivery,Intratubal occlusion device 00      9,,,I,Z2,9      0201001012010,2025-09-12 20:34:03
+A4264002004,system,,,,,,,2025-09-12 20:34:03
+A4265001003,"Paraffin, per pound",Paraffin                    34      A60-9,,,D,D1E,9      0198601012002,2025-09-12 20:34:03
+A4266001003,Diaphragm for contraceptive use,Diaphragm                   00      9,,,I,Z2,9      0200301012003,2025-09-12 20:34:03
+A4267001003,"Contraceptive supply, condom, male, each",Male condom                 00      9,,,I,Z2,9      0200301012003,2025-09-12 20:34:03
+A4268001003,"Contraceptive supply, condom, female, each",Female condom               00      9,,,I,Z2,9      0200301012003,2025-09-12 20:34:03
+A4269001003,"Contraceptive supply, spermicide (e.g., foam, gel), each",Spermicide                  00      9,,,I,Z2,9      0200301012003,2025-09-12 20:34:03
+A4270001003,"Disposable endoscope sheath, each",Disposable endoscope sheath 00      9,,,C,P8D,9      0199401011996,2025-09-12 20:34:03
+A4271001003,Integrated lancing and blood sample testing cartridges for home blood glucose,Home lancing/test cartridges34      A60-11,,,D,D1E,P      0202404012024,2025-09-12 20:34:03
+A4271002004,"monitor, per 50 tests",,,,,,,2025-09-12 20:34:03
+A4280001003,"Adhesive skin support attachment for use with external breast prosthesis, each",Brst prsths adhsv attchmnt  38      A,,,C,D1F,P      0200001012000,2025-09-12 20:34:03
+A4281001003,"Tubing for breast pump, replacement",Replacement breastpump tube 00      9,,,C,Z2,9      0200301012007,2025-09-12 20:34:03
+A4282001003,"Adapter for breast pump, replacement",Replacement breastpump adpt 00      9,,,C,Z2,9      0200301012007,2025-09-12 20:34:03
+A4283001003,"Cap for breast pump bottle, replacement",Replacement breastpump cap  00      9,,,C,Z2,9      0200301012007,2025-09-12 20:34:03
+A4284001003,"Breast shield and splash protector for use with breast pump, replacement",Replcmnt breast pump shield 00      9,,,C,Z2,9      0200301012007,2025-09-12 20:34:03
+A4285001003,"Polycarbonate bottle for use with breast pump, replacement",Replcmnt breast pump bottle 00      9,,,C,Z2,9      0200301012007,2025-09-12 20:34:03
+A4286001003,"Locking ring for breast pump, replacement",Replcmnt breastpump lok ring00      9,,,C,Z2,9      0200301012007,2025-09-12 20:34:03
+A4287001003,"Disposable collection and storage bag for breast milk, any size, any type, each",Disp col sto bag breast milk46      A,,,C,Z2,9      0202401012024,2025-09-12 20:34:03
+A4288001003,"Valve for breast pump, replacement",Replacement breastpump valve46      A,,,C,Z2,9      0202510012025,2025-09-12 20:34:03
+A4290001003,"Sacral nerve stimulation test lead, each",Sacral nerve stim test lead 00      9,,,C,Z2,9      0200101012002,2025-09-12 20:34:03
+A4300001003,"Implantable access catheter, (e.g., venous, arterial, epidural subarachnoid, or",Cath impl vasc access portal11      A                  2130,,,D,Y1,S      0198601012002,2025-09-12 20:34:03
+A4300002004,"peritoneal, etc.) external access",,,,,,,2025-09-12 20:34:03
+A4301001003,"Implantable access total catheter, port/reservoir (e.g., venous, arterial,",Implantable access syst perc00      9,,,C,D1A,S      0199601012003,2025-09-12 20:34:03
+A4301002004,"epidural, subarachnoid, peritoneal, etc.)",,,,,,,2025-09-12 20:34:03
+A4305001003,"Disposable drug delivery system, flow rate of 50 ml or greater per hour",Drug delivery system >=50 ml00      9,,,C,D1A,9      0199301012006,2025-09-12 20:34:03
+A4306001003,"Disposable drug delivery system, flow rate of less than 50 ml per hour",Drug delivery system <=50 ml00      9,,,C,D1A,9      0199301012007,2025-09-12 20:34:03
+A4310001003,Insertion tray without drainage bag and without catheter (accessories only),Insert tray w/o bag/cath    37      A                  2130,,,D,D1F,P      0199001011990,2025-09-12 20:34:03
+A4311001003,"Insertion tray without drainage bag with indwelling catheter, foley type,",Catheter w/o bag 2-way latex37      A                  2130,,,D,D1F,P      0199001011990,2025-09-12 20:34:03
+A4311002004,"two-way latex with coating (teflon, silicone, silicone elastomer or",,,,,,,2025-09-12 20:34:03
+A4311003004,"hydrophilic, etc.)",,,,,,,2025-09-12 20:34:03
+A4312001003,"Insertion tray without drainage bag with indwelling catheter, foley type,",Cath w/o bag 2-way silicone 37      A                  2130,,,D,D1F,P      0199001011990,2025-09-12 20:34:03
+A4312002004,"two-way, all silicone",,,,,,,2025-09-12 20:34:03
+A4313001003,"Insertion tray without drainage bag with indwelling catheter, foley type,",Catheter w/bag 3-way        37      A                  2130,,,D,D1F,P      0199001011990,2025-09-12 20:34:03
+A4313002004,"three-way, for continuous irrigation",,,,,,,2025-09-12 20:34:03
+A4314001003,"Insertion tray with drainage bag with indwelling catheter, foley type, two-way",Cath w/drainage 2-way latex 37      A                  2130,,,D,D1F,P      0199001011990,2025-09-12 20:34:03
+A4314002004,"latex with coating (teflon, silicone, silicone elastomer or hydrophilic, etc.)",,,,,,,2025-09-12 20:34:03
+A4315001003,"Insertion tray with drainage bag with indwelling catheter, foley type, two-way,",Cath w/drainage 2-way silcne37      A                  2130,,,D,D1F,P      0199001011990,2025-09-12 20:34:03
+A4315002004,all silicone,,,,,,,2025-09-12 20:34:03
+A4316001003,"Insertion tray with drainage bag with indwelling catheter, foley type,",Cath w/drainage 3-way       37      A                  2130,,,D,D1F,P      0199001011990,2025-09-12 20:34:03
+A4316002004,"three-way, for continuous irrigation",,,,,,,2025-09-12 20:34:03
+A4320001003,"Irrigation tray with bulb or piston syringe, any purpose",Irrigation tray             37      A                  2130,,,D,D1A,P      0199001011992,2025-09-12 20:34:03
+A4321001003,Therapeutic agent for urinary catheter irrigation,Cath therapeutic irrig agent37      A                  2130,,,D,D1F,P      0199701012003,2025-09-12 20:34:03
+A4322001003,"Irrigation syringe, bulb or piston, each",Irrigation syringe          37      A                  2130,,,D,D1F,P      0199001011996,2025-09-12 20:34:03
+A4326001003,"Male external catheter with integral collection chamber, any type, each",Male external catheter      37      A                  2130,,,D,D1F,P      0199001012007,2025-09-12 20:34:03
+A4327001003,"Female external urinary collection device; meatal cup, each",Fem urinary collect dev cup 37      A                  2130,,,D,D1F,P      0199001011990,2025-09-12 20:34:03
+A4328001003,"Female external urinary collection device; pouch, each",Fem urinary collect pouch   37      A                  2130,,,D,D1F,P      0199001011990,2025-09-12 20:34:03
+A4330001003,"Perianal fecal collection pouch with adhesive, each",Stool collection pouch      37      A                  2130,,,D,D1F,P      0199001011996,2025-09-12 20:34:03
+A4331001003,"Extension drainage tubing, any type, any length, with connector/adaptor, for",Extension drainage tubing   37      A                  2130,,,D,D1F,P      0200101012003,2025-09-12 20:34:03
+A4331002004,"use with urinary leg bag or urostomy pouch, each",,,,,,,2025-09-12 20:34:03
+A4332001003,"Lubricant, individual sterile packet, each",Lube sterile packet         37      A                  2130,,,D,D1F,P      0200101012005,2025-09-12 20:34:03
+A4333001003,"Urinary catheter anchoring device, adhesive skin attachment, each",Urinary cath anchor device  37      A                  2130,,,D,D1F,P      0200101012003,2025-09-12 20:34:03
+A4334001003,"Urinary catheter anchoring device, leg strap, each",Urinary cath leg strap      37      A                  2130,,,D,D1F,P      0200101012003,2025-09-12 20:34:03
+A4335001003,Incontinence supply; miscellaneous,Incontinence supply         46      A                  2130,,,D,D1F,P      0199001011990,2025-09-12 20:34:03
+A4336001003,"Incontinence supply, urethral insert, any type, each",Urethral insert             37      A,,,D,0124D1F,P      0201001012010,2025-09-12 20:34:03
+A4337001003,"Incontinence supply, rectal insert, any type, each",Incontinent rectal insert   38      A                  2130,,,D,D1F,P      0201601012016,2025-09-12 20:34:03
+A4338001003,"Indwelling catheter; foley type, two-way latex with coating (teflon, silicone,",Indwelling catheter latex   37      A                  2130,,,D,D1F,P      0199001011996,2025-09-12 20:34:03
+A4338002004,"silicone elastomer, or hydrophilic, etc.), each",,,,,,,2025-09-12 20:34:03
+A4340001003,"Indwelling catheter; specialty type, (e.g., coude, mushroom, wing, etc.), each",Indwelling catheter special 37      A                  2130,,,D,D1F,P      0199001011996,2025-09-12 20:34:03
+A4341001003,"Indwelling intraurethral drainage device with valve, patient inserted,",Iduc valve pat inst repl    37      A,,,C,D1F,P      0202304012023,2025-09-12 20:34:03
+A4341002004,"replacement only, each",,,,,,,2025-09-12 20:34:03
+A4342001003,Accessories for patient inserted indwelling intraurethral drainage device with,Iduc valve sply repl        37      A,,,C,D1F,P      0202304012023,2025-09-12 20:34:03
+A4342002004,"valve, replacement only, each",,,,,,,2025-09-12 20:34:03
+A4344001003,"Indwelling catheter, foley type, two-way, all silicone or polyurethane, each",Cath indw foley 2 way silicn37      A                  2130,,,D,D1F,P      0198301012023,2025-09-12 20:34:03
+A4346001003,"Indwelling catheter; foley type, three way for continuous irrigation, each",Cath indw foley 3 way       37      A                  2130,,,D,D1F,P      0198301011996,2025-09-12 20:34:03
+A4349001003,"Male external catheter, with or without adhesive, disposable, each",Disposable male external cat37      A                  2130,,,D,D1A,P      0200501012005,2025-09-12 20:34:03
+A4351001003,"Intermittent urinary catheter; straight tip, with or without coating (teflon,",Straight tip urine catheter 37      A                  2130,,,D,D1F,P      0199001012002,2025-09-12 20:34:03
+A4351002004,"silicone, silicone elastomer, or hydrophilic, etc.), each",,,,,,,2025-09-12 20:34:03
+A4352001003,"Intermittent urinary catheter; coude (curved) tip, with or without coating",Coude tip urinary catheter  37      A                  2130,,,D,D1F,P      0199001012002,2025-09-12 20:34:03
+A4352002004,"(teflon, silicone, silicone elastomeric, or hydrophilic, etc.), each",,,,,,,2025-09-12 20:34:03
+A4353001003,"Intermittent urinary catheter, with insertion supplies",Intermittent urinary cath   37      A                  2130,,,D,D1F,P      0199701012003,2025-09-12 20:34:03
+A4354001003,Insertion tray with drainage bag but without catheter,Cath insertion tray w/bag   37      A                  2130,,,D,D1F,P      0198601011990,2025-09-12 20:34:03
+A4355001003,Irrigation tubing set for continuous bladder irrigation through a three-way,Bladder irrigation tubing   37      A                  2130,,,D,D1F,P      0198401011996,2025-09-12 20:34:03
+A4355002004,"indwelling foley catheter, each",,,,,,,2025-09-12 20:34:03
+A4356001003,External urethral clamp or compression device (not to be used for catheter,Ext ureth clmp or compr dvc 37      A                  2130,,,D,D1F,P      0198501011996,2025-09-12 20:34:03
+A4356002004,"clamp), each",,,,,,,2025-09-12 20:34:03
+A4357001003,"Bedside drainage bag, day or night, with or without anti-reflux device, with or",Bedside drainage bag        37      A                  2130,,,D,D1F,P      0198501011996,2025-09-12 20:34:03
+A4357002004,"without tube, each",,,,,,,2025-09-12 20:34:03
+A4358001003,"Urinary drainage bag, leg or abdomen, vinyl, with or without tube, with straps,",Urinary leg or abdomen bag  37      A                  2130,,,D,D1F,P      0198501012002,2025-09-12 20:34:03
+A4358002004,each,,,,,,,2025-09-12 20:34:03
+A4360001003,"Disposable external urethral clamp or compression device, with pad and/or",Disposable ext urethral dev 37      A,,,D,0124D1F,9      0201001012010,2025-09-12 20:34:03
+A4360002004,"pouch, each",,,,,,,2025-09-12 20:34:03
+A4361001003,"Ostomy faceplate, each",Ostomy face plate           37      A                  2130,,,D,D1F,P      0198501011996,2025-09-12 20:34:03
+A4362001003,"Skin barrier; solid, 4 x 4 or equivalent; each",Solid skin barrier          37      A                  2130,,,D,D1F,P      0198501011990,2025-09-12 20:34:03
+A4363001003,"Ostomy clamp, any type, replacement only, each","Ostomy clamp, replacement   37      A",,,D,0124D1F,P      0200601012006,2025-09-12 20:34:03
+A4364001003,"Adhesive, liquid or equal, any type, per oz","Adhesive, liquid or equal   37      A                  2130",,,D,D1F,P      0198501012003,2025-09-12 20:34:03
+A4366001003,"Ostomy vent, any type, each",Ostomy vent                 37      A,,,C,D1F,P      0200401012004,2025-09-12 20:34:03
+A4367001003,"Ostomy belt, each",Ostomy belt                 37      A                  2130A,,,D,D1F,P      0198501011996,2025-09-12 20:34:03
+A4368001003,"Ostomy filter, any type, each",Ostomy filter               37      A,,,C,D1F,P      0199701011997,2025-09-12 20:34:03
+A4369001003,"Ostomy skin barrier, liquid (spray, brush, etc.), per oz",Skin barrier liquid per oz  37      A                  2130,,,D,D1F,P      0200001012003,2025-09-12 20:34:03
+A4371001003,"Ostomy skin barrier, powder, per oz",Skin barrier powder per oz  37      A                  2130,,,D,D1F,P      0200001012003,2025-09-12 20:34:03
+A4372001003,"Ostomy skin barrier, solid 4 x 4 or equivalent, standard wear, with built-in",Skin barrier solid 4x4 equiv37      A                  2130,,,D,D1F,P      0200001012006,2025-09-12 20:34:03
+A4372002004,"convexity, each",,,,,,,2025-09-12 20:34:03
+A4373001003,"Ostomy skin barrier, with flange (solid, flexible or accordion), with built-in",Skin barrier with flange    37      A                  2130,,,D,D1F,P      0200001012003,2025-09-12 20:34:03
+A4373002004,"convexity, any size, each",,,,,,,2025-09-12 20:34:03
+A4375001003,"Ostomy pouch, drainable, with faceplate attached, plastic, each",Drainable plastic pch w fcpl37      A                  2130,,,D,D1F,P      0200001012003,2025-09-12 20:34:03
+A4376001003,"Ostomy pouch, drainable, with faceplate attached, rubber, each",Drainable rubber pch w fcplt37      A                  2130,,,D,D1F,P      0200001012003,2025-09-12 20:34:03
+A4377001003,"Ostomy pouch, drainable, for use on faceplate, plastic, each",Drainable plstic pch w/o fp 37      A                  2130,,,D,D1F,P      0200001012003,2025-09-12 20:34:03
+A4378001003,"Ostomy pouch, drainable, for use on faceplate, rubber, each",Drainable rubber pch w/o fp 37      A                  2130,,,D,D1F,P      0200001012003,2025-09-12 20:34:03
+A4379001003,"Ostomy pouch, urinary, with faceplate attached, plastic, each",Urinary plastic pouch w fcpl37      A                  2130,,,D,D1F,P      0200001012003,2025-09-12 20:34:03
+A4380001003,"Ostomy pouch, urinary, with faceplate attached, rubber, each",Urinary rubber pouch w fcplt37      A                  2130,,,D,D1F,P      0200001012003,2025-09-12 20:34:03
+A4381001003,"Ostomy pouch, urinary, for use on faceplate, plastic, each",Urinary plastic pouch w/o fp37      A                  2130,,,D,D1F,P      0200001012003,2025-09-12 20:34:03
+A4382001003,"Ostomy pouch, urinary, for use on faceplate, heavy plastic, each",Urinary hvy plstc pch w/o fp37      A                  2130,,,D,D1F,P      0200001012003,2025-09-12 20:34:03
+A4383001003,"Ostomy pouch, urinary, for use on faceplate, rubber, each",Urinary rubber pouch w/o fp 37      A                  2130,,,D,D1F,P      0200001012003,2025-09-12 20:34:03
+A4384001003,"Ostomy faceplate equivalent, silicone ring, each",Ostomy faceplt/silicone ring37      A                  2130,,,D,D1F,P      0200001012003,2025-09-12 20:34:03
+A4385001003,"Ostomy skin barrier, solid 4 x 4 or equivalent, extended wear, without built-in",Ost skn barrier sld ext wear37      A                  2130,,,D,D1F,P      0200001012003,2025-09-12 20:34:03
+A4385002004,"convexity, each",,,,,,,2025-09-12 20:34:03
+A4387001003,"Ostomy pouch, closed, with barrier attached, with built-in convexity (1 piece),",Ost clsd pouch w att st barr37      A                  2130,,,D,D1F,P      0200001012003,2025-09-12 20:34:03
+A4387002004,each,,,,,,,2025-09-12 20:34:03
+A4388001003,"Ostomy pouch, drainable, with extended wear barrier attached, (1 piece), each",Drainable pch w ex wear barr37      A                  2130,,,D,D1F,P      0200001012003,2025-09-12 20:34:03
+A4389001003,"Ostomy pouch, drainable, with barrier attached, with built-in convexity (1",Drainable pch w st wear barr37      A                  2130,,,D,D1F,P      0200001012003,2025-09-12 20:34:03
+A4389002004,"piece), each",,,,,,,2025-09-12 20:34:03
+A4390001003,"Ostomy pouch, drainable, with extended wear barrier attached, with built-in",Drainable pch ex wear convex37      A                  2130,,,D,D1F,P      0200001012003,2025-09-12 20:34:03
+A4390002004,"convexity (1 piece), each",,,,,,,2025-09-12 20:34:03
+A4391001003,"Ostomy pouch, urinary, with extended wear barrier attached (1 piece), each",Urinary pouch w ex wear barr37      A                  2130,,,D,D1F,P      0200001012003,2025-09-12 20:34:03
+A4392001003,"Ostomy pouch, urinary, with standard wear barrier attached, with built-in",Urinary pouch w st wear barr37      A                  2130,,,D,D1F,P      0200001012003,2025-09-12 20:34:03
+A4392002004,"convexity (1 piece), each",,,,,,,2025-09-12 20:34:03
+A4393001003,"Ostomy pouch, urinary, with extended wear barrier attached, with built-in",Urine pch w ex wear bar conv37      A                  2130,,,D,D1F,P      0200001012003,2025-09-12 20:34:03
+A4393002004,"convexity (1 piece), each",,,,,,,2025-09-12 20:34:03
+A4394001003,"Ostomy deodorant, with or without lubricant, for use in ostomy pouch, per fluid",Ostomy pouch liq deodorant  37      A                  2130,,,D,D1F,P      0200001012007,2025-09-12 20:34:03
+A4394002004,ounce,,,,,,,2025-09-12 20:34:03
+A4395001003,"Ostomy deodorant for use in ostomy pouch, solid, per tablet",Ostomy pouch solid deodorant37      A                  2130,,,D,D1F,P      0200001012003,2025-09-12 20:34:03
+A4396001003,Ostomy belt with peristomal hernia support,Peristomal hernia supprt blt37      A                  2130,,,D,D1F,P      0200101012003,2025-09-12 20:34:03
+A4397001003,"Irrigation supply; sleeve, each",Irrigation supply sleeve    37      A                  2130,,,D,D1F,P      0199001012022,2025-09-12 20:34:03
+A4398001003,"Ostomy irrigation supply; bag, each",Ostomy irrigation bag       37      A                  2130,,,D,D1F,P      0198901011997,2025-09-12 20:34:03
+A4399001003,"Ostomy irrigation supply; cone/catheter, with or without brush",Ostomy irrig cone/cath w brs37      A                  2130,,,D,D1F,P      0198901012011,2025-09-12 20:34:03
+A4400001003,Ostomy irrigation set,Ostomy irrigation set       37      A                  2130,,,D,D1F,P      0198201011990,2025-09-12 20:34:03
+A4402001003,"Lubricant, per ounce",Lubricant per ounce         37      A                  2130,,,D,D1F,P      0198501011995,2025-09-12 20:34:03
+A4404001003,"Ostomy ring, each",Ostomy ring each            37      A                  2130,,,D,D1F,P      0198501011995,2025-09-12 20:34:03
+A4405001003,"Ostomy skin barrier, non-pectin based, paste, per ounce",Nonpectin based ostomy paste37      A                  2130,,,D,D1F,P      0200301012003,2025-09-12 20:34:03
+A4406001003,"Ostomy skin barrier, pectin-based, paste, per ounce",Pectin based ostomy paste   37      A                  2130,,,D,D1F,P      0200301012003,2025-09-12 20:34:03
+A4407001003,"Ostomy skin barrier, with flange (solid, flexible, or accordion), extended","Ext wear ost skn barr <=4sq""37      A                  2130",,,D,D1F,P      0200301012003,2025-09-12 20:34:03
+A4407002004,"wear, with built-in convexity, 4 x 4 inches or smaller, each",,,,,,,2025-09-12 20:34:03
+A4408001003,"Ostomy skin barrier, with flange (solid, flexible or accordion), extended wear,","Ext wear ost skn barr >4sq"" 37      A                  2130",,,D,D1F,P      0200301012003,2025-09-12 20:34:03
+A4408002004,"with built-in convexity, larger than 4 x 4 inches, each",,,,,,,2025-09-12 20:34:03
+A4409001003,"Ostomy skin barrier, with flange (solid, flexible or accordion), extended wear,",Ost skn barr convex <=4 sq i37      A                  2130,,,D,D1F,P      0200301012006,2025-09-12 20:34:03
+A4409002004,"without built-in convexity, 4 x 4 inches or smaller, each",,,,,,,2025-09-12 20:34:03
+A4410001003,"Ostomy skin barrier, with flange (solid, flexible or accordion), extended wear,",Ost skn barr extnd >4 sq    37      A                  2130,,,D,D1F,P      0200301012006,2025-09-12 20:34:03
+A4410002004,"without built-in convexity, larger than 4 x 4 inches, each",,,,,,,2025-09-12 20:34:03
+A4411001003,"Ostomy skin barrier, solid 4 x 4 or equivalent, extended wear, with built-in",Ost skn barr extnd =4sq     37      A,,,D,0124D1F,P      0200601012006,2025-09-12 20:34:03
+A4411002004,"convexity, each",,,,,,,2025-09-12 20:34:03
+A4412001003,"Ostomy pouch, drainable, high output, for use on a barrier with flange (2 piece",Ost pouch drain high output 37      A                  2130,,,D,0124D1F,P      0200601012006,2025-09-12 20:34:03
+A4412002004,"system), without filter, each",,,,,,,2025-09-12 20:34:03
+A4413001003,"Ostomy pouch, drainable, high output, for use on a barrier with flange (2 piece",2 pc drainable ost pouch    37      A                  2130,,,D,D1F,P      0200301012003,2025-09-12 20:34:03
+A4413002004,"system), with filter, each",,,,,,,2025-09-12 20:34:03
+A4414001003,"Ostomy skin barrier, with flange (solid, flexible or accordion), without",Ost sknbar w/o conv<=4 sq in37      A                  2130,,,D,D1F,P      0200301012006,2025-09-12 20:34:03
+A4414002004,"built-in convexity, 4 x 4 inches or smaller, each",,,,,,,2025-09-12 20:34:03
+A4415001003,"Ostomy skin barrier, with flange (solid, flexible or accordion), without",Ost skn barr w/o conv >4 sqi37      A                  2130,,,D,D1F,P      0200301012006,2025-09-12 20:34:03
+A4415002004,"built-in convexity, larger than 4 x 4 inches, each",,,,,,,2025-09-12 20:34:03
+A4416001003,"Ostomy pouch, closed, with barrier attached, with filter (1 piece), each",Ost pch clsd w barrier/filtr37      A,,,C,D1F,P      0200401012004,2025-09-12 20:34:03
+A4417001003,"Ostomy pouch, closed, with barrier attached, with built-in convexity, with",Ost pch w bar/bltinconv/fltr37      A,,,C,D1F,P      0200401012004,2025-09-12 20:34:03
+A4417002004,"filter (1 piece), each",,,,,,,2025-09-12 20:34:03
+A4418001003,"Ostomy pouch, closed; without barrier attached, with filter (1 piece), each",Ost pch clsd w/o bar w filtr37      A,,,C,D1F,P      0200401012004,2025-09-12 20:34:03
+A4419001003,"Ostomy pouch, closed; for use on barrier with non-locking flange, with filter",Ost pch for bar w flange/flt37      A,,,C,D1F,P      0200401012004,2025-09-12 20:34:03
+A4419002004,"(2 piece), each",,,,,,,2025-09-12 20:34:03
+A4420001003,"Ostomy pouch, closed; for use on barrier with locking flange (2 piece), each",Ost pch clsd for bar w lk fl37      A,,,C,D1F,P      0200401012004,2025-09-12 20:34:03
+A4421001003,Ostomy supply; miscellaneous,Ostomy supply misc          46      A,,,C,D1F,P      0198501012018,2025-09-12 20:34:03
+A4422001003,Ostomy absorbent material (sheet/pad/crystal packet) for use in ostomy pouch to,Ost pouch absorbent material37      A                  2130,,,D,D1F,P      0200301012003,2025-09-12 20:34:03
+A4422002004,"thicken liquid stomal output, each",,,,,,,2025-09-12 20:34:03
+A4423001003,"Ostomy pouch, closed; for use on barrier with locking flange, with filter (2",Ost pch for bar w lk fl/fltr37      A,,,C,D1F,P      0200401012004,2025-09-12 20:34:03
+A4423002004,"piece), each",,,,,,,2025-09-12 20:34:03
+A4424001003,"Ostomy pouch, drainable, with barrier attached, with filter (1 piece), each",Ost pch drain w bar & filter37      A,,,C,D1F,P      0200401012004,2025-09-12 20:34:03
+A4425001003,"Ostomy pouch, drainable; for use on barrier with non-locking flange, with",Ost pch drain for barrier fl37      A,,,C,D1F,P      0200401012004,2025-09-12 20:34:03
+A4425002004,"filter (2 piece system), each",,,,,,,2025-09-12 20:34:03
+A4426001003,"Ostomy pouch, drainable; for use on barrier with locking flange (2 piece",Ost pch drain 2 piece system37      A,,,C,D1F,P      0200401012004,2025-09-12 20:34:03
+A4426002004,"system), each",,,,,,,2025-09-12 20:34:03
+A4427001003,"Ostomy pouch, drainable; for use on barrier with locking flange, with filter (2",Ost pch drain/barr lk flng/f37      A,,,C,D1F,P      0200401012004,2025-09-12 20:34:03
+A4427002004,"piece system), each",,,,,,,2025-09-12 20:34:03
+A4428001003,"Ostomy pouch, urinary, with extended wear barrier attached, with faucet-type",Urine ost pouch w faucet/tap37      A,,,C,D1F,P      0200401012004,2025-09-12 20:34:03
+A4428002004,"tap with valve (1 piece), each",,,,,,,2025-09-12 20:34:03
+A4429001003,"Ostomy pouch, urinary, with barrier attached, with built-in convexity, with",Urine ost pouch w bltinconv 37      A,,,C,D1F,P      0200401012004,2025-09-12 20:34:03
+A4429002004,"faucet-type tap with valve (1 piece), each",,,,,,,2025-09-12 20:34:03
+A4430001003,"Ostomy pouch, urinary, with extended wear barrier attached, with built-in",Ost urine pch w b/bltin conv37      A,,,C,D1F,P      0200401012004,2025-09-12 20:34:03
+A4430002004,"convexity, with faucet-type tap with valve (1 piece), each",,,,,,,2025-09-12 20:34:03
+A4431001003,"Ostomy pouch, urinary; with barrier attached, with faucet-type tap with valve",Ost pch urine w barrier/tapv37      A,,,C,D1F,P      0200401012004,2025-09-12 20:34:03
+A4431002004,"(1 piece), each",,,,,,,2025-09-12 20:34:03
+A4432001003,"Ostomy pouch, urinary; for use on barrier with non-locking flange, with",Os pch urine w bar/fange/tap37      A,,,C,D1F,P      0200401012004,2025-09-12 20:34:03
+A4432002004,"faucet-type tap with valve (2 piece), each",,,,,,,2025-09-12 20:34:03
+A4433001003,"Ostomy pouch, urinary; for use on barrier with locking flange (2 piece), each",Urine ost pch bar w lock fln37      A,,,C,D1F,P      0200401012004,2025-09-12 20:34:03
+A4434001003,"Ostomy pouch, urinary; for use on barrier with locking flange, with faucet-type",Ost pch urine w lock flng/ft37      A,,,C,D1F,P      0200401012004,2025-09-12 20:34:03
+A4434002004,"tap with valve (2 piece), each",,,,,,,2025-09-12 20:34:03
+A4435001003,"Ostomy pouch, drainable, high output, with extended wear barrier (one-piece",1pc ost pch drain hgh output37      A,,,C,D1F,P      0201301012013,2025-09-12 20:34:03
+A4435002004,"system), with or without filter, each",,,,,,,2025-09-12 20:34:03
+A4436001003,"Irrigation supply; sleeve, reusable, per month",Irr supply sleev reus per mo37      A                  2130,,,D,D1F,P      0202201012022,2025-09-12 20:34:03
+A4437001003,"Irrigation supply; sleeve, disposable, per month",Irr supply sleev disp per mo37      A                  2130,,,D,D1F,P      0202201012022,2025-09-12 20:34:03
+A4438001003,Adhesive clip applied to the skin to secure external electrical nerve,Adhesive clip ext ens contr 38      A,,,C,D1F,P      0202404012024,2025-09-12 20:34:03
+A4438002004,"stimulator controller, each",,,,,,,2025-09-12 20:34:03
+A4450001003,"Tape, non-waterproof, per 18 square inches",Non-waterproof tape         37      A                  2130,,,D,D1F,LP     0200301012003,2025-09-12 20:34:03
+A4452001003,"Tape, waterproof, per 18 square inches",Waterproof tape             37      A                  2130,,,D,D1F,LP     0200301012003,2025-09-12 20:34:03
+A4453001003,"Rectal catheter with or without balloon, for use with any type transanal","Rec cath any transanal, each38      A",,,C,D1F,P      0202110012025,2025-09-12 20:34:03
+A4453002004,"irrigation system, each",,,,,,,2025-09-12 20:34:03
+A4455001003,"Adhesive remover or solvent (for tape, cement or other adhesive), per ounce",Adhesive remover per ounce  37      A                  2130,,,D,D1F,P      0198901011995,2025-09-12 20:34:03
+A4456001003,"Adhesive remover, wipes, any type, each","Adhesive remover, wipes     37      A                  2130",,,D,D1F,P      0201001012010,2025-09-12 20:34:03
+A4457001003,"Enema tube, with or without adapter, any type, replacement only, each",Enema tube any type repl    00      9                                          1861s8,,,S,Z2,9      0202401012024,2025-09-12 20:34:03
+A4458001003,"Enema bag with tubing, reusable",Reusable enema bag          00      9,,,C,Z2,9      0200301012007,2025-09-12 20:34:03
+A4459001003,"Manual transanal irrigation system, includes water reservoir, pump, tubing, and","Transanal irrigation, any   38      A",,,C,D1F,P      0201501012025,2025-09-12 20:34:03
+A4459002004,"accessories, without catheter, any type",,,,,,,2025-09-12 20:34:03
+A4461001003,"Surgical dressing holder, non-reusable, each",Surgicl dress hold non-reuse35      A,,,C,D1A,S      0200701012007,2025-09-12 20:34:03
+A4463001003,"Surgical dressing holder, reusable, each",Surgical dress holder reuse 35      A,,,C,D1A,S      0200701012007,2025-09-12 20:34:03
+A4465001003,Non-elastic binder for extremity,Non-elastic extremity binder00      9,,,C,D1A,9      0199401011995,2025-09-12 20:34:03
+A4466001003,"Garment, belt, sleeve or other covering, elastic or similar stretchable",Elastic garment/covering    00      9,,A4467,M,0196Z2,9      0201001012017,2025-09-12 20:34:03
+A4466002004,"material, any type, each",,,,,,,2025-09-12 20:34:03
+A4467001003,"Belt, strap, sleeve, garment, or covering, any type",Belt strap sleev grmnt cover00      9,,,M,0208Z2,9      0201701012017,2025-09-12 20:34:03
+A4468001003,"Exsufflation belt, includes all supplies and accessories",Exsuff belt incl all sup acc00      9                                          1834(A)(3),,,S,Z2,9      0202401012024,2025-09-12 20:34:03
+A4470001003,Gravlee jet washer,Gravlee jet washer          00      950-4              2320,,,D,D1A,P      0198601012001,2025-09-12 20:34:03
+A4480001003,Vabra aspirator,Vabra aspirator             00      950-10             2320,,,D,D1A,P      0198601012001,2025-09-12 20:34:03
+A4481001003,"Tracheostoma filter, any type, any size, each",Tracheostoma filter         37      A                  2130,,,D,D1F,P      0199701012003,2025-09-12 20:34:03
+A4483001003,"Moisture exchanger, disposable, for use with invasive mechanical ventilation",Moisture exchanger          37      A                  2130,,,D,D1F,P      0199901012003,2025-09-12 20:34:03
+A4490001003,"Surgical stockings above knee length, each",Above knee surgical stocking00      960-9              2079    2100,,,M,D1A,P      0198601012003,2025-09-12 20:34:03
+A4495001003,"Surgical stockings thigh length, each",Thigh length surg stocking  00      960-9              2079    2100,,,M,D1A,P      0198601012003,2025-09-12 20:34:03
+A4500001003,"Surgical stockings below knee length, each",Below knee surgical stocking00      960-9              2079    2100,,,M,D1A,P      0198601012003,2025-09-12 20:34:03
+A4510001003,"Surgical stockings full length, each",Full length surg stocking   00      960-9              2079    2100,,,M,D1A,P      0198601012003,2025-09-12 20:34:03
+A4520001003,"Incontinence garment, any type, (e.g., brief, diaper), each",Incontinence garment anytype00      960-9,,,M,D1A,9      0200501012005,2025-09-12 20:34:03
+A4540001003,"Distal transcutaneous electrical nerve stimulator, stimulates peripheral nerves",Trans elec nerv periph nerv 00      9                                          1861(n),,,S,Z2,9      0202401012024,2025-09-12 20:34:03
+A4540002004,of the upper arm,,,,,,,2025-09-12 20:34:03
+A4541001003,Monthly supplies for use of device coded at e0733,Monthly supp use with e0733 34      A,,,C,D1E,P      0202401012024,2025-09-12 20:34:03
+A4542001003,Supplies and accessories for external upper limb tremor stimulator of the,Supp ext up limb tremor stim34      A,,,C,D1E,P      0202401012024,2025-09-12 20:34:03
+A4542002004,peripheral nerves of the wrist,,,,,,,2025-09-12 20:34:03
+A4543001003,"Supplies for transcutaneous electrical nerve stimulator, for nerves in the",Supply trans elec nerve stim46      A,,,C,D1E,9      0202410012024,2025-09-12 20:34:03
+A4543002004,"auricular region, per month",,,,,,,2025-09-12 20:34:03
+A4544001003,Electrode for external lower extremity nerve stimulator for restless legs,Electro nerve stimulator rls34      A,,,C,D1E,P      0202410012024,2025-09-12 20:34:03
+A4544002004,syndrome,,,,,,,2025-09-12 20:34:03
+A4545001003,"Supplies and accessories for external tibial nerve stimulator (e.g., socks, gel",Suppl accessor tibial stim  34      A,,,C,D1E,P      0202410012024,2025-09-12 20:34:03
+A4545002004,"pads, electrodes, etc.), needed for one month",,,,,,,2025-09-12 20:34:03
+A4550001003,Surgical trays,Surgical trays              11      A                  15030,,,D,Y1,9      0198201012000,2025-09-12 20:34:03
+A4553001003,"Non-disposable underpads, all sizes","Nondisp underpads, all sizes00      960-9",,,M,D1A,9      0201701012017,2025-09-12 20:34:03
+A4554001003,"Disposable underpads, all sizes",Disposable underpads        00      960-9,,,M,D1A,9      0198601012005,2025-09-12 20:34:03
+A4555001003,Electrode/transducer for use with electrical stimulation device used for cancer,Ca tx e-stim electr/transduc00      9,,,I,D1E,P      0201401012014,2025-09-12 20:34:03
+A4555002004,"treatment, replacement only",,,,,,,2025-09-12 20:34:03
+A4556001003,"Electrodes, (e.g., apnea monitor), per pair","Electrodes, pair            34      A",,,C,D1E,P      0198401012000,2025-09-12 20:34:03
+A4557001003,"Lead wires, (e.g., apnea monitor), per pair","Lead wires, pair            34      A",,,C,D1E,P      0198401012000,2025-09-12 20:34:03
+A4558001003,"Conductive gel or paste, for use with electrical device (e.g., tens, nmes), per",Conductive gel or paste     34      A,,,C,D1E,P      0198501012007,2025-09-12 20:34:03
+A4558002004,oz,,,,,,,2025-09-12 20:34:03
+A4559001003,"Coupling gel or paste, for use with ultrasound device, per oz",Coupling gel or paste       34      A,,,C,D1E,P      0200701012007,2025-09-12 20:34:03
+A4560001003,"Neuromuscular electrical stimulator (nmes), disposable, replacement only",Nmes disposable             00      9                                          1861(n),,,S,Z2,9      0202304012023,2025-09-12 20:34:03
+A4561001003,"Pessary, reusable, rubber, any type",Pessary reusable rub anytype38      A,,,C,D1F,P      0200101012024,2025-09-12 20:34:03
+A4562001003,"Pessary, reusable, non rubber, any type",Pessary reusable nonrubber  38      A,,,C,D1F,P      0200101012024,2025-09-12 20:34:03
+A4563001003,"Rectal control system for vaginal insertion, for long term use, includes pump",Vag inser rectal control sys38      A,,,C,D1F,P      0201901012019,2025-09-12 20:34:03
+A4563002004,"and all supplies and accessories, any type each",,,,,,,2025-09-12 20:34:03
+A4564001003,"Pessary, disposable, any type","Pessary, disposable any type46      A",,,C,D1F,P      0202404012024,2025-09-12 20:34:03
+A4565001003,Slings,Slings                      55      A,,,C,D1A,P      0198301012014,2025-09-12 20:34:03
+A4566001003,"Shoulder sling or vest design, abduction restrainer, with or without swathe",Should sling/vest/abrestrain00      9,,,I,Z2,9      0201101012011,2025-09-12 20:34:03
+A4566002004,"control, prefabricated, includes fitting and adjustment",,,,,,,2025-09-12 20:34:03
+A4570001003,Splint,Splint                      52      A                  2079,,,I,D1A,P      0198201012001,2025-09-12 20:34:03
+A4575001003,"Topical hyperbaric oxygen chamber, disposable",Hyperbaric o2 chamber disps 00      9,,,C,0170D1A,9      0199601012017,2025-09-12 20:34:03
+A4580001003,"Cast supplies (e.g., plaster)",Cast supplies (plaster)     00      9                  2079,,,I,D1A,9      0198201011982,2025-09-12 20:34:03
+A4590001003,"Special casting material (e.g., fiberglass)",Special casting material    00      9                  2079,,,I,D1A,9      0198401011984,2025-09-12 20:34:03
+A4593001003,"Neuromodulation stimulator system, adjunct to rehabilitation therapy regime,",Neuromod sti sys adj rehab  36      A,,,C,D1E,R      0202404012025,2025-09-12 20:34:03
+A4593002004,controller,,,,,,,2025-09-12 20:34:03
+A4594001003,"Neuromodulation stimulator system, adjunct to rehabilitation therapy regime,",Neuromod adj rehab mouthpie 32      A,,,C,D1E,P      0202404012025,2025-09-12 20:34:03
+A4594002004,mouthpiece each,,,,,,,2025-09-12 20:34:03
+A4595001003,"Electrical stimulator supplies, 2 lead, per month, (e.g., tens, nmes)",Tens suppl 2 lead per month 34      A45-25,,,D,D1E,P      0199601012003,2025-09-12 20:34:03
+A4596001003,"Cranial electrotherapy stimulation (ces) system supplies and accessories, per",Ces system monthly supp     34      A,,,C,D1E,P      0202210012022,2025-09-12 20:34:03
+A4596002004,month,,,,,,,2025-09-12 20:34:03
+A4600001003,"Sleeve for intermittent limb compression device, replacement only, each","Sleeve, inter limb comp dev 32      A",,,C,D1E,P      0200701012007,2025-09-12 20:34:03
+A4601001003,"Lithium ion battery, rechargeable, for non-prosthetic use, replacement",Lith ion non prosth recharge32      A,,,C,D1E,P      0200701012015,2025-09-12 20:34:03
+A4602001003,"Replacement battery for external infusion pump owned by patient, lithium, 1.5",Replace lithium battery 1.5v32      A,,,C,D1E,P      0201501012015,2025-09-12 20:34:03
+A4602002004,"volt, each",,,,,,,2025-09-12 20:34:03
+A4604001003,Tubing with integrated heating element for use with positive airway pressure,Tubing with heating element 32      A,,,C,D1E,P      0200601012006,2025-09-12 20:34:03
+A4604002004,device,,,,,,,2025-09-12 20:34:03
+A4605001003,"Tracheal suction catheter, closed system, each",Trach suction cath close sys32      A,,,C,D1E,P      0200501012005,2025-09-12 20:34:03
+A4606001003,"Oxygen probe for use with oximeter device, replacement",Oxygen probe used w oximeter00      9,,,C,D1E,9      0200301012003,2025-09-12 20:34:03
+A4608001003,"Transtracheal oxygen catheter, each",Transtracheal oxygen cath   00      9,,,C,D1C,P      0200101012014,2025-09-12 20:34:03
+A4611001003,"Battery, heavy duty; replacement for patient owned ventilator",Heavy duty battery          00      9                                          1834a3A,,,S,D1E,P      0199001012014,2025-09-12 20:34:03
+A4612001003,Battery cables; replacement for patient-owned ventilator,Battery cables              00      9                                          1834a3A,,,S,D1E,P      0199001012014,2025-09-12 20:34:03
+A4613001003,Battery charger; replacement for patient-owned ventilator,Battery charger             00      9                                          1834a3A,,,S,D1E,P      0199001012014,2025-09-12 20:34:03
+A4614001003,"Peak expiratory flow rate meter, hand held",Hand-held pefr meter        46      A,,,C,Z2,9      0199901011999,2025-09-12 20:34:03
+A4615001003,"Cannula, nasal",Cannula nasal               00      960-4              3312,,,D,D1C,P      0199001012009,2025-09-12 20:34:03
+A4616001003,"Tubing (oxygen), per foot",Tubing (oxygen) per foot    00      960-4              3312,,,D,D1C,P      0199001012009,2025-09-12 20:34:03
+A4617001003,Mouth piece,Mouth piece                 00      960-4              3312,,,D,D1C,P      0199001012009,2025-09-12 20:34:03
+A4618001003,Breathing circuits,Breathing circuits          32      A60-4              3312,,,D,D1E,APR    0199001011993,2025-09-12 20:34:03
+A4619001003,Face tent,Face tent                   32      A60-4              3312,,,D,D1E,P      0199001012011,2025-09-12 20:34:03
+A4620001003,Variable concentration mask,Variable concentration mask 00      960-4              3312,,,D,D1C,P      0199001012009,2025-09-12 20:34:03
+A4623001003,"Tracheostomy, inner cannula",Tracheostomy inner cannula  37      A65-16             2130,,,D,D1F,P      0199001012004,2025-09-12 20:34:03
+A4624001003,"Tracheal suction catheter, any type other than closed system, each",Tracheal suction tube       32      A,,,C,D1E,P      0199001012003,2025-09-12 20:34:03
+A4625001003,Tracheostomy care kit for new tracheostomy,Trach care kit for new trach37      A                  2130,,,D,D1F,P      0199001012003,2025-09-12 20:34:03
