@@ -20,5 +20,6 @@ The medical codexes files that were used are:
 
 This function ensured consistent formating
 
-- Raw data files were ecluded in .gitignore 
+#### Output
+- Raw data files were excluded in .gitignore 
 - Sample output files were included as demonstration
